@@ -1,0 +1,13 @@
+#+title: Write Up
+#+author: Paure Fmoenne-
+
+* Setup VM
+
+1. Telecharger la VM sur le repo du projet.
+2. Lancer virtualbox avec l'iso telechargee.
+3. Creer une inteface reseau "host-network" (nommee par defaut vboxnet0).
+4. Dans les parametres reseau de la VM, choisir en numero 2 "Host-Only adaptater" avec l'interface precedemment cree.
+5. Lancer la VM.
+6. Une fois la VM lancee, faire ip a ou ifconfig et recopier l'ip attribuee a l'interface vboxnet0
+7. Utiliser nmap pour scanner la range d'ip de l'interface et trouver la vm `nmap -T5 192.168.56.1-255 -v`
+8. Une des IP scannees devrait etre notre VM boot2root.
