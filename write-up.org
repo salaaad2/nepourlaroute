@@ -21,6 +21,7 @@
 
 ** 22
 - OpenSSH 5.9p1 Debian 5ubuntu1.7
+- user root (src=probleme login)
 
 ** 80
 - Apache 2.2.22
@@ -34,10 +35,9 @@
 - ssl-cert: Subject: commonName=BornToSec
 
 - php 5.3.10
+- my little forum 2.3.4
 - pages open : /forum  /forum/themes/default/ /forum/themes/default/images/
 
-   Oct 5 14:54:29 BornToSecHackMe sudo: admin : TTY=pts/0 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh
-   user lmezard
 
 #+CAPTION: This is the caption for the next figure link (or table)
 #+NAME:   fig:forum users
