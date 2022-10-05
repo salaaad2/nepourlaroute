@@ -1,5 +1,5 @@
 #+title: Write Up
-#+author: Paure Fmoenne-
+#+author: Fmoenne- Paure
 
 * Setup VM
 
@@ -11,3 +11,40 @@
 6. Une fois la VM lancee, faire ip a ou ifconfig et recopier l'ip attribuee a l'interface vboxnet0
 7. Utiliser nmap pour scanner la range d'ip de l'interface et trouver la vm `nmap -T5 192.168.56.1-255 -v`
 8. Une des IP scannees devrait etre notre VM boot2root.
+
+* Enumeration
+
+** 21
+- vsftpd 2.0.8 or later
+`500 OOPS: vsftpd: refusing to run with writable root inside chroot()`
+`500 OOPS: priv_sock_get_cmd`
+
+** 22
+- OpenSSH 5.9p1 Debian 5ubuntu1.7
+
+** 80
+- Apache 2.2.22
+- Os: Ubuntu
+
+** 143
+- Dovecot imapd
+
+** 443
+- Apache httpd 2.2.22
+- ssl-cert: Subject: commonName=BornToSec
+
+- php 5.3.10
+- pages open : /forum  /forum/themes/default/ /forum/themes/default/images/
+
+   Oct 5 14:54:29 BornToSecHackMe sudo: admin : TTY=pts/0 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh
+   user lmezard
+
+#+CAPTION: This is the caption for the next figure link (or table)
+#+NAME:   fig:forum users
+[[./img/forum_users.png]]
+
+
+** 993
+- ssl/imaps
+- subject=O = Dovecot mail server, OU = localhost, CN = localhost, emailAddress = root@mail.borntosec.net
+- issuer=O = Dovecot mail server, OU = localhost, CN = localhost, emailAddress = root@mail.borntosec.net
