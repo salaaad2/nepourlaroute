@@ -1,0 +1,28 @@
+COMMAND     PID     USER   FD   TYPE             DEVICE SIZE/OFF NODE NAME
+loginwind   466 fmoenne-    7u  IPv4 0x60ea5089b2859e73      0t0  UDP *:*
+UserEvent 78778 fmoenne-    3u  IPv4 0x60ea5089b26f8f63      0t0  UDP *:*
+SystemUIS 78784 fmoenne-   11u  IPv4 0x60ea5089b26f50db      0t0  UDP *:*
+SystemUIS 78784 fmoenne-   12u  IPv4 0x60ea5089b26f9cfb      0t0  UDP *:*
+SystemUIS 78784 fmoenne-   13u  IPv4 0x60ea5089b26f921b      0t0  UDP *:51338
+SystemUIS 78784 fmoenne-   14u  IPv4 0x60ea5089b26f79a3      0t0  UDP *:*
+rapportd  78796 fmoenne-    5u  IPv4 0x60ea5089b285c73b      0t0  UDP *:*
+rapportd  78796 fmoenne-    6u  IPv4 0x60ea5089b285d4d3      0t0  UDP *:*
+identitys 78804 fmoenne-   19u  IPv4 0x60ea5089b29dfa43      0t0  UDP *:*
+WiFiAgent 78823 fmoenne-    5u  IPv4 0x60ea5089b28590db      0t0  UDP *:*
+ARDAgent  78828 fmoenne-    6u  IPv6 0x60ea5089b29dfcfb      0t0  UDP *:net-assistant
+ARDAgent  78828 fmoenne-    7u  IPv4 0x60ea5089b29dab6b      0t0  UDP *:net-assistant
+ARDAgent  78828 fmoenne-    9u  IPv6 0x60ea5089b14e5f33      0t0  TCP *:net-assistant (LISTEN)
+sharingd  78838 fmoenne-    4u  IPv4 0x60ea5089b03ce903      0t0  UDP *:*
+sharingd  78838 fmoenne-    8u  IPv4 0x60ea5089b03d0433      0t0  UDP *:*
+sharingd  78838 fmoenne-    9u  IPv4 0x60ea5089b03d19f3      0t0  UDP *:*
+sharingd  78838 fmoenne-   10u  IPv4 0x60ea5089b03d1cab      0t0  UDP *:*
+sharingd  78838 fmoenne-   11u  IPv4 0x60ea5089b285a12b      0t0  UDP *:*
+sharingd  78838 fmoenne-   13u  IPv4 0x60ea5089b5d25cfb      0t0  UDP *:*
+sharingd  78838 fmoenne-   14u  IPv4 0x60ea5089b26f564b      0t0  UDP *:*
+firefox   87706 fmoenne-   71u  IPv4 0x60ea5089be16f233      0t0  TCP z3r6p3.42lyon.fr:50556->163.172.250.13:https (ESTABLISHED)
+firefox   87706 fmoenne-   82u  IPv4 0x60ea5089bff7e233      0t0  TCP z3r6p3.42lyon.fr:51416->stackoverflow.com:https (ESTABLISHED)
+firefox   87706 fmoenne-  102u  IPv4 0x60ea5089bb587233      0t0  TCP z3r6p3.42lyon.fr:50276->ec2-44-242-32-27.us-west-2.compute.amazonaws.com:https (ESTABLISHED)
+firefox   87706 fmoenne-  115u  IPv4 0x60ea5089c0da58b3      0t0  TCP z3r6p3.42lyon.fr:51200->163.172.250.13:https (ESTABLISHED)
+Slack\x20 92293 fmoenne-   21u  IPv4 0x60ea5089be16df33      0t0  TCP z3r6p3.42lyon.fr:51352->ec2-3-68-61-181.eu-central-1.compute.amazonaws.com:https (ESTABLISHED)
+Slack\x20 92293 fmoenne-   23u  IPv4 0x60ea5089b2fd1bb3      0t0  TCP z3r6p3.42lyon.fr:51452->ec2-3-67-131-16.eu-central-1.compute.amazonaws.com:https (ESTABLISHED)
+Slack\x20 92293 fmoenne-   25u  IPv4 0x60ea5089b482df33      0t0  TCP z3r6p3.42lyon.fr:51470->ec2-18-134-215-41.eu-west-2.compute.amazonaws.com:https (ESTABLISHED)

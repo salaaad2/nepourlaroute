@@ -1,0 +1,5 @@
+{Dirbuster NG 0.1} (c)2012 WintermeW
+FOUND localhost// (response code 200)
+FOUND localhost/cgi-bin/ (response code 403)
+FOUND localhost/fonts (response code 200)
+FOUND localhost/forum (response code 403)

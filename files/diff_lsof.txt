@@ -1,0 +1,1020 @@
+2a3,1021
+> VirtualBo 18978 fmoenne-   33u  IPv4 0x60ea5089c6e1326b      0t0  UDP *:59052
+> VirtualBo 18978 fmoenne-   34u  IPv4 0x60ea5089c6e0e0db      0t0  UDP *:52768
+> VirtualBo 18978 fmoenne-   35u  IPv4 0x60ea5089c6e0de23      0t0  UDP *:52258
+> VirtualBo 18978 fmoenne-   36u  IPv4 0x60ea5089c6e13523      0t0  UDP *:61905
+> VirtualBo 18978 fmoenne-   41u  IPv4 0x60ea5089b29ccec3      0t0 ICMP *:*
+> VirtualBo 18978 fmoenne-   42u  IPv4 0x60ea5089bff7ebb3      0t0  TCP *:10 (LISTEN)
+> VirtualBo 18978 fmoenne-   43u  IPv4 0x60ea5089bff7f533      0t0  TCP *:snagas (LISTEN)
+> VirtualBo 18978 fmoenne-   44u  IPv4 0x60ea5089bff7d8b3      0t0  TCP *:chargen (LISTEN)
+> VirtualBo 18978 fmoenne-   45u  IPv4 0x60ea5089b26f5393      0t0  UDP *:http
+> VirtualBo 18978 fmoenne-   46u  IPv4 0x60ea5089b26f81cb      0t0  UDP *:hosts2-ns
+> VirtualBo 18978 fmoenne-   47u  IPv4 0x60ea5089b26f8483      0t0  UDP *:xfer
+> VirtualBo 18978 fmoenne-   48u  IPv4 0x60ea5089b26f978b      0t0  UDP *:mit-ml-dev
+> VirtualBo 18978 fmoenne-   49u  IPv4 0x60ea5089b26f5903      0t0  UDP *:ctf
+> VirtualBo 18978 fmoenne-   50u  IPv4 0x60ea5089b26f612b      0t0  UDP *:mit-ml-dev
+> VirtualBo 18978 fmoenne-   51u  IPv4 0x60ea5089b26f5e73      0t0  UDP *:mfcobol
+> VirtualBo 18978 fmoenne-   52u  IPv4 0x60ea5089b26f6953      0t0  UDP *:87
+> VirtualBo 18978 fmoenne-   53u  IPv4 0x60ea5089b03d06eb      0t0  UDP *:su-mit-tg
+> VirtualBo 18978 fmoenne-   54u  IPv4 0x60ea5089bff7cf33      0t0  TCP *:gacp (LISTEN)
+> VirtualBo 18978 fmoenne-   55u  IPv4 0x60ea5089b03cde23      0t0  UDP *:dnsix
+> VirtualBo 18978 fmoenne-   56u  IPv4 0x60ea5089b03ce0db      0t0  UDP *:mit-dov
+> VirtualBo 18978 fmoenne-   57u  IPv4 0x60ea5089b03d278b      0t0  UDP *:npp
+> VirtualBo 18978 fmoenne-   58u  IPv4 0x60ea5089b03d2cfb      0t0  UDP *:dcp
+> VirtualBo 18978 fmoenne-   59u  IPv4 0x60ea5089b03d0f13      0t0  UDP *:objcall
+> VirtualBo 18978 fmoenne-   60u  IPv4 0x60ea5089b03cf12b      0t0  UDP *:supdup
+> VirtualBo 18978 fmoenne-   61u  IPv4 0x60ea5089b03cd8b3      0t0  UDP *:dixie
+> VirtualBo 18978 fmoenne-   62u  IPv4 0x60ea5089b03d24d3      0t0  UDP *:swift-rvf
+> VirtualBo 18978 fmoenne-   63u  IPv4 0x60ea5089b03cf69b      0t0  UDP *:tacnews
+> VirtualBo 18978 fmoenne-   64u  IPv4 0x60ea5089b03d11cb      0t0  UDP *:metagram
+> VirtualBo 18978 fmoenne-   65u  IPv4 0x60ea5089b87c3f33      0t0  TCP *:prospero (LISTEN)
+> VirtualBo 18978 fmoenne-   66u  IPv4 0x60ea5089b87c5233      0t0  TCP *:osu-nms (LISTEN)
+> VirtualBo 18978 fmoenne-   67u  IPv4 0x60ea5089b87c48b3      0t0  TCP *:srmp (LISTEN)
+> VirtualBo 18978 fmoenne-   68u  IPv4 0x60ea5089b87c6533      0t0  TCP *:irc (LISTEN)
+> VirtualBo 18978 fmoenne-   69u  IPv4 0x60ea5089c0da4f33      0t0  TCP *:dn6-nlm-aud (LISTEN)
+> VirtualBo 18978 fmoenne-   70u  IPv4 0x60ea5089c0da6233      0t0  TCP *:dn6-smm-red (LISTEN)
+> VirtualBo 18978 fmoenne-   71u  IPv4 0x60ea5089c0da7533      0t0  TCP *:dls (LISTEN)
+> VirtualBo 18978 fmoenne-   72u  IPv4 0x60ea5089c0da6bb3      0t0  TCP *:dls-mon (LISTEN)
+> VirtualBo 18978 fmoenne-   73u  IPv4 0x60ea5089c0da3bb3      0t0  TCP *:pop2 (LISTEN)
+> VirtualBo 18978 fmoenne-   74u  IPv4 0x60ea5089c0da3233      0t0  TCP *:smux (LISTEN)
+> VirtualBo 18978 fmoenne-   75u  IPv4 0x60ea5089c0da28b3      0t0  TCP *:ftp-data (LISTEN)
+> VirtualBo 18978 fmoenne-   76u  IPv4 0x60ea5089b2fcff33      0t0  TCP *:src (LISTEN)
+> VirtualBo 18978 fmoenne-   77u  IPv4 0x60ea5089b2fd2533      0t0  TCP *:at-rtmp (LISTEN)
+> VirtualBo 18978 fmoenne-   78u  IPv4 0x60ea5089b2fd08b3      0t0  TCP *:at-nbp (LISTEN)
+> VirtualBo 18978 fmoenne-   79u  IPv4 0x60ea5089b2fd1233      0t0  TCP *:at-3 (LISTEN)
+> VirtualBo 18978 fmoenne-   80u  IPv4 0x60ea5089be16e8b3      0t0  TCP *:at-echo (LISTEN)
+> VirtualBo 18978 fmoenne-   81u  IPv4 0x60ea5089be170533      0t0  TCP *:at-5 (LISTEN)
+> VirtualBo 18978 fmoenne-   82u  IPv4 0x60ea5089b5f2f8b3      0t0  TCP *:at-zis (LISTEN)
+> VirtualBo 18978 fmoenne-   83u  IPv4 0x60ea5089b5f31533      0t0  TCP *:at-7 (LISTEN)
+> VirtualBo 18978 fmoenne-   84u  IPv4 0x60ea5089b5f30bb3      0t0  TCP *:systat (LISTEN)
+> VirtualBo 18978 fmoenne-   85u  IPv4 0x60ea5089bb5868b3      0t0  TCP *:at-8 (LISTEN)
+> VirtualBo 18978 fmoenne-   86u  IPv4 0x60ea5089bb588533      0t0  TCP *:qmtp (LISTEN)
+> VirtualBo 18978 fmoenne-   87u  IPv4 0x60ea5089bb585f33      0t0  TCP *:ftp (LISTEN)
+> VirtualBo 18978 fmoenne-   88u  IPv4 0x60ea5089bb587bb3      0t0  TCP *:z39.50 (LISTEN)
+> VirtualBo 18978 fmoenne-   89u  IPv4 0x60ea5089b482f233      0t0  TCP *:914c/g (LISTEN)
+> VirtualBo 18978 fmoenne-   90u  IPv4 0x60ea5089b482e8b3      0t0  TCP *:anet (LISTEN)
+> VirtualBo 18978 fmoenne-   91u  IPv4 0x60ea5089b14e98b3      0t0  TCP *:ipx (LISTEN)
+> VirtualBo 18978 fmoenne-   92u  IPv4 0x60ea5089c6b64233      0t0  TCP *:vmpwscs (LISTEN)
+> VirtualBo 18978 fmoenne-   93u  IPv4 0x60ea5089c6b64bb3      0t0  TCP *:softpc (LISTEN)
+> VirtualBo 18978 fmoenne-   94u  IPv4 0x60ea5089c6b638b3      0t0  TCP *:CAIlic (LISTEN)
+> VirtualBo 18978 fmoenne-   95u  IPv4 0x60ea5089c6b62f33      0t0  TCP *:pop3 (LISTEN)
+> VirtualBo 18978 fmoenne-   96u  IPv4 0x60ea5089c6b65533      0t0  TCP *:dbase (LISTEN)
+> VirtualBo 18978 fmoenne-   97u  IPv4 0x60ea5089c6b6d8b3      0t0  TCP *:mpp (LISTEN)
+> VirtualBo 18978 fmoenne-   98u  IPv4 0x60ea5089c6b6e233      0t0  TCP *:uarps (LISTEN)
+> VirtualBo 18978 fmoenne-   99u  IPv4 0x60ea5089c6b6ebb3      0t0  TCP *:imap3 (LISTEN)
+> VirtualBo 18978 fmoenne-  100u  IPv4 0x60ea5089c6b6cf33      0t0  TCP *:fln-spx (LISTEN)
+> VirtualBo 18978 fmoenne-  101u  IPv4 0x60ea5089c6b6f533      0t0  TCP *:rsh-spx (LISTEN)
+> VirtualBo 18978 fmoenne-  102u  IPv4 0x60ea5089c6b6ff33      0t0  TCP *:cdc (LISTEN)
+> VirtualBo 18978 fmoenne-  103u  IPv4 0x60ea5089c6b708b3      0t0  TCP *:masqdialer (LISTEN)
+> VirtualBo 18978 fmoenne-  104u  IPv4 0x60ea5089c6b71233      0t0  TCP *:225 (LISTEN)
+> VirtualBo 18978 fmoenne-  105u  IPv4 0x60ea5089c6b71bb3      0t0  TCP *:226 (LISTEN)
+> VirtualBo 18978 fmoenne-  106u  IPv4 0x60ea5089c6b72533      0t0  TCP *:sunrpc (LISTEN)
+> VirtualBo 18978 fmoenne-  107u  IPv4 0x60ea5089c6b74233      0t0  TCP *:227 (LISTEN)
+> VirtualBo 18978 fmoenne-  108u  IPv4 0x60ea5089c6b738b3      0t0  TCP *:228 (LISTEN)
+> VirtualBo 18978 fmoenne-  109u  IPv4 0x60ea5089c6b74bb3      0t0  TCP *:229 (LISTEN)
+> VirtualBo 18978 fmoenne-  110u  IPv4 0x60ea5089c6b72f33      0t0  TCP *:telnet (LISTEN)
+> VirtualBo 18978 fmoenne-  111u  IPv4 0x60ea5089c6b75533      0t0  TCP *:230 (LISTEN)
+> VirtualBo 18978 fmoenne-  112u  IPv4 0x60ea5089c6b7e233      0t0  TCP *:231 (LISTEN)
+> VirtualBo 18978 fmoenne-  113u  IPv4 0x60ea5089c6b7ebb3      0t0  TCP *:232 (LISTEN)
+> VirtualBo 18978 fmoenne-  114u  IPv4 0x60ea5089c6b7f533      0t0  TCP *:233 (LISTEN)
+> VirtualBo 18978 fmoenne-  115u  IPv4 0x60ea5089c6b7d8b3      0t0  TCP *:234 (LISTEN)
+> VirtualBo 18978 fmoenne-  116u  IPv4 0x60ea5089c6b7cf33      0t0  TCP *:235 (LISTEN)
+> VirtualBo 18978 fmoenne-  117u  IPv4 0x60ea5089c6b81bb3      0t0  TCP *:mcidas (LISTEN)
+> VirtualBo 18978 fmoenne-  118u  IPv4 0x60ea5089c6b82533      0t0  TCP *:236 (LISTEN)
+> VirtualBo 18978 fmoenne-  119u  IPv4 0x60ea5089c6b81233      0t0  TCP *:237 (LISTEN)
+> VirtualBo 18978 fmoenne-  120u  IPv4 0x60ea5089c6b808b3      0t0  TCP *:238 (LISTEN)
+> VirtualBo 18978 fmoenne-  121u  IPv4 0x60ea5089c6b7ff33      0t0  TCP *:239 (LISTEN)
+> VirtualBo 18978 fmoenne-  122u  IPv4 0x60ea5089c6b85233      0t0  TCP *:24 (LISTEN)
+> VirtualBo 18978 fmoenne-  123u  IPv4 0x60ea5089c6b85bb3      0t0  TCP *:240 (LISTEN)
+> VirtualBo 18978 fmoenne-  124u  IPv4 0x60ea5089c6b848b3      0t0  TCP *:241 (LISTEN)
+> VirtualBo 18978 fmoenne-  125u  IPv4 0x60ea5089c6b83f33      0t0  TCP *:direct (LISTEN)
+> VirtualBo 18978 fmoenne-  126u  IPv4 0x60ea5089c6b86533      0t0  TCP *:sur-meas (LISTEN)
+> VirtualBo 18978 fmoenne-  127u  IPv4 0x60ea5089c6b88233      0t0  TCP *:inbusiness (LISTEN)
+> VirtualBo 18978 fmoenne-  128u  IPv4 0x60ea5089c6b88bb3      0t0  TCP *:auth (LISTEN)
+> VirtualBo 18978 fmoenne-  129u  IPv4 0x60ea5089c6b89533      0t0  TCP *:link (LISTEN)
+> VirtualBo 18978 fmoenne-  130u  IPv4 0x60ea5089c6b878b3      0t0  TCP *:dsp3270 (LISTEN)
+> VirtualBo 18978 fmoenne-  131u  IPv4 0x60ea5089c6b86f33      0t0  TCP *:subntbcst_tftp (LISTEN)
+> VirtualBo 18978 fmoenne-  132u  IPv4 0x60ea5089c6b9ef33      0t0  TCP *:bhfhs (LISTEN)
+> VirtualBo 18978 fmoenne-  133u  IPv4 0x60ea5089c6b9f8b3      0t0  TCP *:249 (LISTEN)
+> VirtualBo 18978 fmoenne-  134u  IPv4 0x60ea5089c6ba0233      0t0  TCP *:smtp (LISTEN)
+> VirtualBo 18978 fmoenne-  135u  IPv4 0x60ea5089c6ba0bb3      0t0  TCP *:250 (LISTEN)
+> VirtualBo 18978 fmoenne-  136u  IPv4 0x60ea5089c6ba1533      0t0  TCP *:251 (LISTEN)
+> VirtualBo 18978 fmoenne-  137u  IPv4 0x60ea5089c6ba28b3      0t0  TCP *:252 (LISTEN)
+> VirtualBo 18978 fmoenne-  138u  IPv4 0x60ea5089c6ba3233      0t0  TCP *:253 (LISTEN)
+> VirtualBo 18978 fmoenne-  139u  IPv4 0x60ea5089c6ba3bb3      0t0  TCP *:audionews (LISTEN)
+> VirtualBo 18978 fmoenne-  140u  IPv4 0x60ea5089c6ba1f33      0t0  TCP *:254 (LISTEN)
+> VirtualBo 18978 fmoenne-  141u  IPv4 0x60ea5089c6ba4533      0t0  TCP *:255 (LISTEN)
+> VirtualBo 18978 fmoenne-  142u  IPv4 0x60ea5089c6ba6bb3      0t0  TCP *:rap (LISTEN)
+> VirtualBo 18978 fmoenne-  143u  IPv4 0x60ea5089c6ba7533      0t0  TCP *:set (LISTEN)
+> VirtualBo 18978 fmoenne-  144u  IPv4 0x60ea5089c6ba6233      0t0  TCP *:yak-chat (LISTEN)
+> VirtualBo 18978 fmoenne-  145u  IPv4 0x60ea5089c6ba58b3      0t0  TCP *:esro-gen (LISTEN)
+> VirtualBo 18978 fmoenne-  146u  IPv4 0x60ea5089c6ba4f33      0t0  TCP *:26 (LISTEN)
+> VirtualBo 18978 fmoenne-  147u  IPv4 0x60ea5089c6baa233      0t0  TCP *:openport (LISTEN)
+> VirtualBo 18978 fmoenne-  148u  IPv4 0x60ea5089c6ba98b3      0t0  TCP *:nsiiops (LISTEN)
+> VirtualBo 18978 fmoenne-  149u  IPv4 0x60ea5089c6baabb3      0t0  TCP *:arcisdms (LISTEN)
+> VirtualBo 18978 fmoenne-  150u  IPv4 0x60ea5089c6bab533      0t0  TCP *:sftp (LISTEN)
+> VirtualBo 18978 fmoenne-  151u  IPv4 0x60ea5089c6ba8f33      0t0  TCP *:hdap (LISTEN)
+> VirtualBo 18978 fmoenne-  152u  IPv4 0x60ea5089c6badbb3      0t0  TCP *:bgmp (LISTEN)
+> VirtualBo 18978 fmoenne-  153u  IPv4 0x60ea5089c6bae533      0t0  TCP *:x-bone-ctl (LISTEN)
+> VirtualBo 18978 fmoenne-  154u  IPv4 0x60ea5089c6bad233      0t0  TCP *:sst (LISTEN)
+> VirtualBo 18978 fmoenne-  155u  IPv4 0x60ea5089c6bac8b3      0t0  TCP *:td-service (LISTEN)
+> VirtualBo 18978 fmoenne-  156u  IPv4 0x60ea5089c6babf33      0t0  TCP *:td-replica (LISTEN)
+> VirtualBo 18978 fmoenne-  157u  IPv4 0x60ea5089c6bb0233      0t0  TCP *:269 (LISTEN)
+> VirtualBo 18978 fmoenne-  158u  IPv4 0x60ea5089c6bb0bb3      0t0  TCP *:nsw-fe (LISTEN)
+> VirtualBo 18978 fmoenne-  159u  IPv4 0x60ea5089c6bb1533      0t0  TCP *:270 (LISTEN)
+> VirtualBo 18978 fmoenne-  160u  IPv4 0x60ea5089c6baf8b3      0t0  TCP *:271 (LISTEN)
+> VirtualBo 18978 fmoenne-  161u  IPv4 0x60ea5089c6baef33      0t0  TCP *:ansanotify (LISTEN)
+> VirtualBo 18978 fmoenne-  162u  IPv4 0x60ea5089c6bb2f33      0t0  TCP *:272 (LISTEN)
+> VirtualBo 18978 fmoenne-  163u  IPv4 0x60ea5089c6bb38b3      0t0  TCP *:273 (LISTEN)
+> VirtualBo 18978 fmoenne-  164u  IPv4 0x60ea5089c6bb4233      0t0  TCP *:274 (LISTEN)
+> VirtualBo 18978 fmoenne-  165u  IPv4 0x60ea5089c6bb4bb3      0t0  TCP *:275 (LISTEN)
+> VirtualBo 18978 fmoenne-  166u  IPv4 0x60ea5089c6bb5533      0t0  TCP *:276 (LISTEN)
+> VirtualBo 18978 fmoenne-  167u  IPv4 0x60ea5089c6bb7233      0t0  TCP *:277 (LISTEN)
+> VirtualBo 18978 fmoenne-  168u  IPv4 0x60ea5089c6bb7bb3      0t0  TCP *:278 (LISTEN)
+> VirtualBo 18978 fmoenne-  169u  IPv4 0x60ea5089c6bb68b3      0t0  TCP *:279 (LISTEN)
+> VirtualBo 18978 fmoenne-  170u  IPv4 0x60ea5089c6bb8533      0t0  TCP *:28 (LISTEN)
+> VirtualBo 18978 fmoenne-  171u  IPv4 0x60ea5089c6bb5f33      0t0  TCP *:http-mgmt (LISTEN)
+> VirtualBo 18978 fmoenne-  172u  IPv4 0x60ea5089c6bbabb3      0t0  TCP *:newacct (LISTEN)
+> VirtualBo 18978 fmoenne-  173u  IPv4 0x60ea5089c6bba233      0t0  TCP *:uucp-path (LISTEN)
+> VirtualBo 18978 fmoenne-  174u  IPv4 0x60ea5089c6bb98b3      0t0  TCP *:personal-link (LISTEN)
+> VirtualBo 18978 fmoenne-  175u  IPv4 0x60ea5089c6bbb533      0t0  TCP *:cableport-ax (LISTEN)
+> VirtualBo 18978 fmoenne-  176u  IPv4 0x60ea5089c6bb8f33      0t0  TCP *:rescap (LISTEN)
+> VirtualBo 18978 fmoenne-  177u  IPv4 0x60ea5089c6bbc8b3      0t0  TCP *:corerjd (LISTEN)
+> VirtualBo 18978 fmoenne-  178u  IPv4 0x60ea5089c6bbd233      0t0  TCP *:285 (LISTEN)
+> VirtualBo 18978 fmoenne-  179u  IPv4 0x60ea5089c6bbdbb3      0t0  TCP *:fxp-1 (LISTEN)
+> VirtualBo 18978 fmoenne-  180u  IPv4 0x60ea5089c6bbbf33      0t0  TCP *:k-block (LISTEN)
+> VirtualBo 18978 fmoenne-  181u  IPv4 0x60ea5089c6bbe533      0t0  TCP *:288 (LISTEN)
+> VirtualBo 18978 fmoenne-  182u  IPv4 0x60ea5089c6bbf8b3      0t0  TCP *:289 (LISTEN)
+> VirtualBo 18978 fmoenne-  183u  IPv4 0x60ea5089c6bbef33      0t0  TCP *:msg-icp (LISTEN)
+> VirtualBo 18978 fmoenne-  184u  IPv4 0x60ea5089c6bc0233      0t0  TCP *:sqlserv (LISTEN)
+> VirtualBo 18978 fmoenne-  185u  IPv4 0x60ea5089c6bc0bb3      0t0  TCP *:290 (LISTEN)
+> VirtualBo 18978 fmoenne-  186u  IPv4 0x60ea5089c6bc1533      0t0  TCP *:291 (LISTEN)
+> VirtualBo 18978 fmoenne-  187u  IPv4 0x60ea5089c6bc28b3      0t0  TCP *:292 (LISTEN)
+> VirtualBo 18978 fmoenne-  188u  IPv4 0x60ea5089c6bc3233      0t0  TCP *:293 (LISTEN)
+> VirtualBo 18978 fmoenne-  189u  IPv4 0x60ea5089c6bc1f33      0t0  TCP *:294 (LISTEN)
+> VirtualBo 18978 fmoenne-  190u  IPv4 0x60ea5089c6bc3bb3      0t0  TCP *:295 (LISTEN)
+> VirtualBo 18978 fmoenne-  191u  IPv4 0x60ea5089c6bc4533      0t0  TCP *:296 (LISTEN)
+> VirtualBo 18978 fmoenne-  192u  IPv4 0x60ea5089c6bc6233      0t0  TCP *:297 (LISTEN)
+> VirtualBo 18978 fmoenne-  193u  IPv4 0x60ea5089c6bc58b3      0t0  TCP *:298 (LISTEN)
+> VirtualBo 18978 fmoenne-  194u  IPv4 0x60ea5089c6bc6bb3      0t0  TCP *:299 (LISTEN)
+> VirtualBo 18978 fmoenne-  195u  IPv4 0x60ea5089c6bc4f33      0t0  TCP *:nntp (LISTEN)
+> VirtualBo 18978 fmoenne-  196u  IPv4 0x60ea5089c6bc7533      0t0  TCP *:30 (LISTEN)
+> VirtualBo 18978 fmoenne-  197u  IPv4 0x60ea5089c6bca533      0t0  TCP *:300 (LISTEN)
+> VirtualBo 18978 fmoenne-  198u  IPv4 0x60ea5089c6bc9bb3      0t0  TCP *:301 (LISTEN)
+> VirtualBo 18978 fmoenne-  199u  IPv4 0x60ea5089c6bc9233      0t0  TCP *:302 (LISTEN)
+> VirtualBo 18978 fmoenne-  200u  IPv4 0x60ea5089c6bc88b3      0t0  TCP *:303 (LISTEN)
+> VirtualBo 18978 fmoenne-  201u  IPv4 0x60ea5089c6bc7f33      0t0  TCP *:304 (LISTEN)
+> VirtualBo 18978 fmoenne-  202u  IPv4 0x60ea5089c6bcd533      0t0  TCP *:305 (LISTEN)
+> VirtualBo 18978 fmoenne-  203u  IPv4 0x60ea5089c6bccbb3      0t0  TCP *:306 (LISTEN)
+> VirtualBo 18978 fmoenne-  204u  IPv4 0x60ea5089c6bcc233      0t0  TCP *:307 (LISTEN)
+> VirtualBo 18978 fmoenne-  205u  IPv4 0x60ea5089c6bcb8b3      0t0  TCP *:novastorbakcup (LISTEN)
+> VirtualBo 18978 fmoenne-  206u  IPv4 0x60ea5089c6bcaf33      0t0  TCP *:12 (LISTEN)
+> VirtualBo 18978 fmoenne-  207u  IPv4 0x60ea5089c6bcf233      0t0  TCP *:entrusttime (LISTEN)
+> VirtualBo 18978 fmoenne-  208u  IPv4 0x60ea5089c6bcfbb3      0t0  TCP *:msg-auth (LISTEN)
+> VirtualBo 18978 fmoenne-  209u  IPv4 0x60ea5089c6bd0533      0t0  TCP *:bhmds (LISTEN)
+> VirtualBo 18978 fmoenne-  210u  IPv4 0x60ea5089c6bce8b3      0t0  TCP *:asip-webadmin (LISTEN)
+> VirtualBo 18978 fmoenne-  211u  IPv4 0x60ea5089c6bcdf33      0t0  TCP *:vslmp (LISTEN)
+> VirtualBo 18978 fmoenne-  212u  IPv4 0x60ea5089c6bd7233      0t0  TCP *:magenta-logic (LISTEN)
+> VirtualBo 18978 fmoenne-  213u  IPv4 0x60ea5089c6bd7bb3      0t0  TCP *:opalis-robot (LISTEN)
+> VirtualBo 18978 fmoenne-  214u  IPv4 0x60ea5089c6bd68b3      0t0  TCP *:dpsi (LISTEN)
+> VirtualBo 18978 fmoenne-  215u  IPv4 0x60ea5089c6bd5f33      0t0  TCP *:decauth (LISTEN)
+> VirtualBo 18978 fmoenne-  216u  IPv4 0x60ea5089c6bd8533      0t0  TCP *:zannet (LISTEN)
+> VirtualBo 18978 fmoenne-  217u  IPv4 0x60ea5089c6bde233      0t0  TCP *:cfdptkt (LISTEN)
+> VirtualBo 18978 fmoenne-  218u  IPv4 0x60ea5089c6bdd8b3      0t0  TCP *:pkix-timestamp (LISTEN)
+> VirtualBo 18978 fmoenne-  219u  IPv4 0x60ea5089c6bdebb3      0t0  TCP *:ptp-event (LISTEN)
+> VirtualBo 18978 fmoenne-  220u  IPv4 0x60ea5089c6bdcf33      0t0  TCP *:32 (LISTEN)
+> VirtualBo 18978 fmoenne-  221u  IPv4 0x60ea5089c6bdf533      0t0  TCP *:ptp-general (LISTEN)
+> VirtualBo 18978 fmoenne-  222u  IPv4 0x60ea5089c6be1bb3      0t0  TCP *:pip (LISTEN)
+> VirtualBo 18978 fmoenne-  223u  IPv4 0x60ea5089c6be1233      0t0  TCP *:rtsps (LISTEN)
+> VirtualBo 18978 fmoenne-  224u  IPv4 0x60ea5089c6be08b3      0t0  TCP *:323 (LISTEN)
+> VirtualBo 18978 fmoenne-  225u  IPv4 0x60ea5089c6be2533      0t0  TCP *:324 (LISTEN)
+> VirtualBo 18978 fmoenne-  226u  IPv4 0x60ea5089c6bdff33      0t0  TCP *:325 (LISTEN)
+> VirtualBo 18978 fmoenne-  227u  IPv4 0x60ea5089c6be5233      0t0  TCP *:326 (LISTEN)
+> VirtualBo 18978 fmoenne-  228u  IPv4 0x60ea5089c6be5bb3      0t0  TCP *:erpc (LISTEN)
+> VirtualBo 18978 fmoenne-  229u  IPv4 0x60ea5089c6be48b3      0t0  TCP *:327 (LISTEN)
+> VirtualBo 18978 fmoenne-  230u  IPv4 0x60ea5089c6be6533      0t0  TCP *:328 (LISTEN)
+> VirtualBo 18978 fmoenne-  231u  IPv4 0x60ea5089c6be3f33      0t0  TCP *:329 (LISTEN)
+> VirtualBo 18978 fmoenne-  232u  IPv4 0x60ea5089c6bee233      0t0  TCP *:dsp (LISTEN)
+> VirtualBo 18978 fmoenne-  233u  IPv4 0x60ea5089c6bed8b3      0t0  TCP *:330 (LISTEN)
+> VirtualBo 18978 fmoenne-  234u  IPv4 0x60ea5089c6beebb3      0t0  TCP *:331 (LISTEN)
+> VirtualBo 18978 fmoenne-  235u  IPv4 0x60ea5089c6bef533      0t0  TCP *:332 (LISTEN)
+> VirtualBo 18978 fmoenne-  236u  IPv4 0x60ea5089c6becf33      0t0  TCP *:texar (LISTEN)
+> VirtualBo 18978 fmoenne-  237u  IPv4 0x60ea5089c6bf2233      0t0  TCP *:334 (LISTEN)
+> VirtualBo 18978 fmoenne-  238u  IPv4 0x60ea5089c6bf18b3      0t0  TCP *:335 (LISTEN)
+> VirtualBo 18978 fmoenne-  239u  IPv4 0x60ea5089c6bf2bb3      0t0  TCP *:smakynet (LISTEN)
+> VirtualBo 18978 fmoenne-  240u  IPv4 0x60ea5089c6bf0f33      0t0  TCP *:336 (LISTEN)
+> VirtualBo 18978 fmoenne-  241u  IPv4 0x60ea5089c6bf3533      0t0  TCP *:337 (LISTEN)
+> VirtualBo 18978 fmoenne-  242u  IPv4 0x60ea5089c6bfa8b3      0t0  TCP *:338 (LISTEN)
+> VirtualBo 18978 fmoenne-  243u  IPv4 0x60ea5089c6bfb233      0t0  TCP *:339 (LISTEN)
+> VirtualBo 18978 fmoenne-  244u  IPv4 0x60ea5089c6bfbbb3      0t0  TCP *:34 (LISTEN)
+> VirtualBo 18978 fmoenne-  245u  IPv4 0x60ea5089c6bfc533      0t0  TCP *:340 (LISTEN)
+> VirtualBo 18978 fmoenne-  246u  IPv4 0x60ea5089c6bf9f33      0t0  TCP *:341 (LISTEN)
+> VirtualBo 18978 fmoenne-  247u  IPv4 0x60ea5089c6bff8b3      0t0  TCP *:342 (LISTEN)
+> VirtualBo 18978 fmoenne-  248u  IPv4 0x60ea5089c6c00233      0t0  TCP *:343 (LISTEN)
+> VirtualBo 18978 fmoenne-  249u  IPv4 0x60ea5089c6c00bb3      0t0  TCP *:pdap (LISTEN)
+> VirtualBo 18978 fmoenne-  250u  IPv4 0x60ea5089c6c01533      0t0  TCP *:ntp (LISTEN)
+> VirtualBo 18978 fmoenne-  251u  IPv4 0x60ea5089c6bfef33      0t0  TCP *:pawserv (LISTEN)
+> VirtualBo 18978 fmoenne-  252u  IPv4 0x60ea5089c6c098b3      0t0  TCP *:zserv (LISTEN)
+> VirtualBo 18978 fmoenne-  253u  IPv4 0x60ea5089c6c0a233      0t0  TCP *:fatserv (LISTEN)
+> VirtualBo 18978 fmoenne-  254u  IPv4 0x60ea5089c6c0abb3      0t0  TCP *:csi-sgwp (LISTEN)
+> VirtualBo 18978 fmoenne-  255u  IPv4 0x60ea5089c6c08f33      0t0  TCP *:mftp (LISTEN)
+> VirtualBo 18978 fmoenne-  256u  IPv4 0x60ea5089c6c0b533      0t0  TCP *:35 (LISTEN)
+> VirtualBo 18978 fmoenne-  257u  IPv4 0x60ea5089c6c158b3      0t0  TCP *:matip-type-a (LISTEN)
+> VirtualBo 18978 fmoenne-  258u  IPv4 0x60ea5089c6c16233      0t0  TCP *:matip-type-b (LISTEN)
+> VirtualBo 18978 fmoenne-  259u  IPv4 0x60ea5089c6c16bb3      0t0  TCP *:dtag-ste-sb (LISTEN)
+> VirtualBo 18978 fmoenne-  260u  IPv4 0x60ea5089c6c14f33      0t0  TCP *:ndsauth (LISTEN)
+> VirtualBo 18978 fmoenne-  261u  IPv4 0x60ea5089c6c17533      0t0  TCP *:ansatrader (LISTEN)
+> VirtualBo 18978 fmoenne-  262u  IPv4 0x60ea5089c6c188b3      0t0  TCP *:bh611 (LISTEN)
+> VirtualBo 18978 fmoenne-  263u  IPv4 0x60ea5089c6c19233      0t0  TCP *:datex-asn (LISTEN)
+> VirtualBo 18978 fmoenne-  264u  IPv4 0x60ea5089c6c19bb3      0t0  TCP *:cloanto-net-1 (LISTEN)
+> VirtualBo 18978 fmoenne-  265u  IPv4 0x60ea5089c6c1a533      0t0  TCP *:bhevent (LISTEN)
+> VirtualBo 18978 fmoenne-  266u  IPv4 0x60ea5089c6c17f33      0t0  TCP *:shrinkwrap (LISTEN)
+> VirtualBo 18978 fmoenne-  267u  IPv4 0x60ea5089c6c1c233      0t0  TCP *:nsrmp (LISTEN)
+> VirtualBo 18978 fmoenne-  268u  IPv4 0x60ea5089c6c1b8b3      0t0  TCP *:36 (LISTEN)
+> VirtualBo 18978 fmoenne-  269u  IPv4 0x60ea5089c6c1af33      0t0  TCP *:scoi2odialog (LISTEN)
+> VirtualBo 18978 fmoenne-  270u  IPv4 0x60ea5089c6c1cbb3      0t0  TCP *:semantix (LISTEN)
+> VirtualBo 18978 fmoenne-  271u  IPv4 0x60ea5089c6c1d533      0t0  TCP *:srssend (LISTEN)
+> VirtualBo 18978 fmoenne-  272u  IPv4 0x60ea5089c6c2af33      0t0  TCP *:locus-map (LISTEN)
+> VirtualBo 18978 fmoenne-  273u  IPv4 0x60ea5089c6c2b8b3      0t0  TCP *:rsvp_tunnel (LISTEN)
+> VirtualBo 18978 fmoenne-  274u  IPv4 0x60ea5089c6c2c233      0t0  TCP *:aurora-cmgr (LISTEN)
+> VirtualBo 18978 fmoenne-  275u  IPv4 0x60ea5089c6c2cbb3      0t0  TCP *:dtk (LISTEN)
+> VirtualBo 18978 fmoenne-  276u  IPv4 0x60ea5089c6c2d533      0t0  TCP *:odmr (LISTEN)
+> VirtualBo 18978 fmoenne-  277u  IPv4 0x60ea5089c6c30533      0t0  TCP *:mortgageware (LISTEN)
+> VirtualBo 18978 fmoenne-  278u  IPv4 0x60ea5089c6c2fbb3      0t0  TCP *:qbikgdp (LISTEN)
+> VirtualBo 18978 fmoenne-  279u  IPv4 0x60ea5089c6c2f233      0t0  TCP *:rpc2portmap (LISTEN)
+> VirtualBo 18978 fmoenne-  280u  IPv4 0x60ea5089c6c2e8b3      0t0  TCP *:time (LISTEN)
+> VirtualBo 18978 fmoenne-  281u  IPv4 0x60ea5089c6c2df33      0t0  TCP *:codaauth2 (LISTEN)
+> VirtualBo 18978 fmoenne-  282u  IPv4 0x60ea5089c6c348b3      0t0  TCP *:clearcase (LISTEN)
+> VirtualBo 18978 fmoenne-  283u  IPv4 0x60ea5089c6c35233      0t0  TCP *:hostname (LISTEN)
+> VirtualBo 18978 fmoenne-  284u  IPv4 0x60ea5089c6c35bb3      0t0  TCP *:nxedit (LISTEN)
+> VirtualBo 18978 fmoenne-  285u  IPv4 0x60ea5089c6c33f33      0t0  TCP *:ulistproc (LISTEN)
+> VirtualBo 18978 fmoenne-  286u  IPv4 0x60ea5089c6c36533      0t0  TCP *:legent-1 (LISTEN)
+> VirtualBo 18978 fmoenne-  287u  IPv4 0x60ea5089c6c378b3      0t0  TCP *:legent-2 (LISTEN)
+> VirtualBo 18978 fmoenne-  288u  IPv4 0x60ea5089c6c38233      0t0  TCP *:hassle (LISTEN)
+> VirtualBo 18978 fmoenne-  289u  IPv4 0x60ea5089c6c36f33      0t0  TCP *:nip (LISTEN)
+> VirtualBo 18978 fmoenne-  290u  IPv4 0x60ea5089c6c38bb3      0t0  TCP *:tnETOS (LISTEN)
+> VirtualBo 18978 fmoenne-  291u  IPv4 0x60ea5089c6c39533      0t0  TCP *:dsETOS (LISTEN)
+> VirtualBo 18978 fmoenne-  292u  IPv4 0x60ea5089c6c39f33      0t0  TCP *:is99c (LISTEN)
+> VirtualBo 18978 fmoenne-  293u  IPv4 0x60ea5089c6c3a8b3      0t0  TCP *:rap (LISTEN)
+> VirtualBo 18978 fmoenne-  294u  IPv4 0x60ea5089c6c3b233      0t0  TCP *:is99s (LISTEN)
+> VirtualBo 18978 fmoenne-  295u  IPv4 0x60ea5089c6c3bbb3      0t0  TCP *:locus-con (LISTEN)
+> VirtualBo 18978 fmoenne-  296u  IPv4 0x60ea5089c6c3c533      0t0  TCP *:hp-collector (LISTEN)
+> VirtualBo 18978 fmoenne-  297u  IPv4 0x60ea5089c6c3d8b3      0t0  TCP *:hp-managed-node (LISTEN)
+> VirtualBo 18978 fmoenne-  298u  IPv4 0x60ea5089c6c3e233      0t0  TCP *:hp-alarm-mgr (LISTEN)
+> VirtualBo 18978 fmoenne-  299u  IPv4 0x60ea5089c6c3cf33      0t0  TCP *:arns (LISTEN)
+> VirtualBo 18978 fmoenne-  300u  IPv4 0x60ea5089c6c3ebb3      0t0  TCP *:ibm-app (LISTEN)
+> VirtualBo 18978 fmoenne-  301u  IPv4 0x60ea5089c6c3f533      0t0  TCP *:asa (LISTEN)
+> VirtualBo 18978 fmoenne-  302u  IPv4 0x60ea5089c6c3ff33      0t0  TCP *:aurp (LISTEN)
+> VirtualBo 18978 fmoenne-  303u  IPv4 0x60ea5089c6c408b3      0t0  TCP *:unidata-ldm (LISTEN)
+> VirtualBo 18978 fmoenne-  304u  IPv4 0x60ea5089c6c41233      0t0  TCP *:ldap (LISTEN)
+> VirtualBo 18978 fmoenne-  305u  IPv4 0x60ea5089c6c41bb3      0t0  TCP *:rlp (LISTEN)
+> VirtualBo 18978 fmoenne-  306u  IPv4 0x60ea5089c6c42533      0t0  TCP *:gss-xlicen (LISTEN)
+> VirtualBo 18978 fmoenne-  307u  IPv4 0x60ea5089c6c438b3      0t0  TCP *:uis (LISTEN)
+> VirtualBo 18978 fmoenne-  308u  IPv4 0x60ea5089c6c42f33      0t0  TCP *:synotics-relay (LISTEN)
+> VirtualBo 18978 fmoenne-  309u  IPv4 0x60ea5089c6c44233      0t0  TCP *:synotics-broker (LISTEN)
+> VirtualBo 18978 fmoenne-  310u  IPv4 0x60ea5089c6c44bb3      0t0  TCP *:meta5 (LISTEN)
+> VirtualBo 18978 fmoenne-  311u  IPv4 0x60ea5089c6c45533      0t0  TCP *:embl-ndt (LISTEN)
+> VirtualBo 18978 fmoenne-  312u  IPv4 0x60ea5089c6c47bb3      0t0  TCP *:netcp (LISTEN)
+> VirtualBo 18978 fmoenne-  313u  IPv4 0x60ea5089c6c48533      0t0  TCP *:netware-ip (LISTEN)
+> VirtualBo 18978 fmoenne-  314u  IPv4 0x60ea5089c6c47233      0t0  TCP *:mptn (LISTEN)
+> VirtualBo 18978 fmoenne-  315u  IPv4 0x60ea5089c6c468b3      0t0  TCP *:kryptolan (LISTEN)
+> VirtualBo 18978 fmoenne-  316u  IPv4 0x60ea5089c6c45f33      0t0  TCP *:iso-tsap-c2 (LISTEN)
+> VirtualBo 18978 fmoenne-  317u  IPv4 0x60ea5089c6c4abb3      0t0  TCP *:pwdgen (LISTEN)
+> VirtualBo 18978 fmoenne-  318u  IPv4 0x60ea5089c6c4a233      0t0  TCP *:40 (LISTEN)
+> VirtualBo 18978 fmoenne-  319u  IPv4 0x60ea5089c6c498b3      0t0  TCP *:work-sol (LISTEN)
+> VirtualBo 18978 fmoenne-  320u  IPv4 0x60ea5089c6c48f33      0t0  TCP *:ups (LISTEN)
+> VirtualBo 18978 fmoenne-  321u  IPv4 0x60ea5089c6c4b533      0t0  TCP *:genie (LISTEN)
+> VirtualBo 18978 fmoenne-  322u  IPv4 0x60ea5089c6c4e533      0t0  TCP *:decap (LISTEN)
+> VirtualBo 18978 fmoenne-  323u  IPv4 0x60ea5089c6c4dbb3      0t0  TCP *:nced (LISTEN)
+> VirtualBo 18978 fmoenne-  324u  IPv4 0x60ea5089c6c4d233      0t0  TCP *:ncld (LISTEN)
+> VirtualBo 18978 fmoenne-  325u  IPv4 0x60ea5089c6c4c8b3      0t0  TCP *:imsp (LISTEN)
+> VirtualBo 18978 fmoenne-  326u  IPv4 0x60ea5089c6c4bf33      0t0  TCP *:timbuktu (LISTEN)
+> VirtualBo 18978 fmoenne-  327u  IPv4 0x60ea5089c6c50bb3      0t0  TCP *:prm-sm (LISTEN)
+> VirtualBo 18978 fmoenne-  328u  IPv4 0x60ea5089c6c50233      0t0  TCP *:daytime (LISTEN)
+> VirtualBo 18978 fmoenne-  329u  IPv4 0x60ea5089c6c51533      0t0  TCP *:prm-nm (LISTEN)
+> VirtualBo 18978 fmoenne-  330u  IPv4 0x60ea5089c6c4f8b3      0t0  TCP *:graphics (LISTEN)
+> VirtualBo 18978 fmoenne-  331u  IPv4 0x60ea5089c6c4ef33      0t0  TCP *:decladebug (LISTEN)
+> VirtualBo 18978 fmoenne-  332u  IPv4 0x60ea5089c6c5f8b3      0t0  TCP *:rmt (LISTEN)
+> VirtualBo 18978 fmoenne-  333u  IPv4 0x60ea5089c6c60233      0t0  TCP *:synoptics-trap (LISTEN)
+> VirtualBo 18978 fmoenne-  334u  IPv4 0x60ea5089c6c5ef33      0t0  TCP *:smsp (LISTEN)
+> VirtualBo 18978 fmoenne-  335u  IPv4 0x60ea5089c6c60bb3      0t0  TCP *:infoseek (LISTEN)
+> VirtualBo 18978 fmoenne-  336u  IPv4 0x60ea5089c6c61533      0t0  TCP *:bnet (LISTEN)
+> VirtualBo 18978 fmoenne-  337u  IPv4 0x60ea5089c6c63bb3      0t0  TCP *:silverplatter (LISTEN)
+> VirtualBo 18978 fmoenne-  338u  IPv4 0x60ea5089c6c63233      0t0  TCP *:onmux (LISTEN)
+> VirtualBo 18978 fmoenne-  339u  IPv4 0x60ea5089c6c64533      0t0  TCP *:cisco-fna (LISTEN)
+> VirtualBo 18978 fmoenne-  340u  IPv4 0x60ea5089c6c628b3      0t0  TCP *:hyper-g (LISTEN)
+> VirtualBo 18978 fmoenne-  341u  IPv4 0x60ea5089c6c61f33      0t0  TCP *:ariel1 (LISTEN)
+> VirtualBo 18978 fmoenne-  342u  IPv4 0x60ea5089c6c6ebb3      0t0  TCP *:name (LISTEN)
+> VirtualBo 18978 fmoenne-  343u  IPv4 0x60ea5089c6c6f533      0t0  TCP *:smpte (LISTEN)
+> VirtualBo 18978 fmoenne-  344u  IPv4 0x60ea5089c6c6e233      0t0  TCP *:ariel2 (LISTEN)
+> VirtualBo 18978 fmoenne-  345u  IPv4 0x60ea5089c6c6d8b3      0t0  TCP *:ariel3 (LISTEN)
+> VirtualBo 18978 fmoenne-  346u  IPv4 0x60ea5089c6c6cf33      0t0  TCP *:opc-job-start (LISTEN)
+> VirtualBo 18978 fmoenne-  347u  IPv4 0x60ea5089c6c71233      0t0  TCP *:opc-job-track (LISTEN)
+> VirtualBo 18978 fmoenne-  348u  IPv4 0x60ea5089c6c708b3      0t0  TCP *:icad-el (LISTEN)
+> VirtualBo 18978 fmoenne-  349u  IPv4 0x60ea5089c6c6ff33      0t0  TCP *:smartsdp (LISTEN)
+> VirtualBo 18978 fmoenne-  350u  IPv4 0x60ea5089c6c71bb3      0t0  TCP *:cisco-tna (LISTEN)
+> VirtualBo 18978 fmoenne-  351u  IPv4 0x60ea5089c6c72533      0t0  TCP *:svrloc (LISTEN)
+> VirtualBo 18978 fmoenne-  352u  IPv4 0x60ea5089c6c798b3      0t0  TCP *:ocs_cmu (LISTEN)
+> VirtualBo 18978 fmoenne-  353u  IPv4 0x60ea5089c6c78f33      0t0  TCP *:ocs_amu (LISTEN)
+> VirtualBo 18978 fmoenne-  354u  IPv4 0x60ea5089c6c7a233      0t0  TCP *:nicname (LISTEN)
+> VirtualBo 18978 fmoenne-  355u  IPv4 0x60ea5089c6c7abb3      0t0  TCP *:utmpsd (LISTEN)
+> VirtualBo 18978 fmoenne-  356u  IPv4 0x60ea5089c6c7b533      0t0  TCP *:utmpcd (LISTEN)
+> VirtualBo 18978 fmoenne-  357u  IPv4 0x60ea5089c6c85bb3      0t0  TCP *:iasd (LISTEN)
+> VirtualBo 18978 fmoenne-  358u  IPv4 0x60ea5089c6c86533      0t0  TCP *:nnsp (LISTEN)
+> VirtualBo 18978 fmoenne-  359u  IPv4 0x60ea5089c6c85233      0t0  TCP *:mobileip-agent (LISTEN)
+> VirtualBo 18978 fmoenne-  360u  IPv4 0x60ea5089c6c848b3      0t0  TCP *:mobilip-mn (LISTEN)
+> VirtualBo 18978 fmoenne-  361u  IPv4 0x60ea5089c6c83f33      0t0  TCP *:cisco-sys (LISTEN)
+> VirtualBo 18978 fmoenne-  362u  IPv4 0x60ea5089c6c88bb3      0t0  TCP *:dna-cml (LISTEN)
+> VirtualBo 18978 fmoenne-  363u  IPv4 0x60ea5089c6c88233      0t0  TCP *:comscm (LISTEN)
+> VirtualBo 18978 fmoenne-  364u  IPv4 0x60ea5089c6c878b3      0t0  TCP *:dsfgw (LISTEN)
+> VirtualBo 18978 fmoenne-  365u  IPv4 0x60ea5089c6c89533      0t0  TCP *:dasp (LISTEN)
+> VirtualBo 18978 fmoenne-  366u  IPv4 0x60ea5089c6c86f33      0t0  TCP *:mpm-flags (LISTEN)
+> VirtualBo 18978 fmoenne-  367u  IPv4 0x60ea5089c6c8bbb3      0t0  TCP *:sgcp (LISTEN)
+> VirtualBo 18978 fmoenne-  368u  IPv4 0x60ea5089c6c8b233      0t0  TCP *:decvms-sysmgt (LISTEN)
+> VirtualBo 18978 fmoenne-  369u  IPv4 0x60ea5089c6c8a8b3      0t0  TCP *:cvc_hostd (LISTEN)
+> VirtualBo 18978 fmoenne-  370u  IPv4 0x60ea5089c6c8c533      0t0  TCP *:https (LISTEN)
+> VirtualBo 18978 fmoenne-  371u  IPv4 0x60ea5089c6c89f33      0t0  TCP *:snpp (LISTEN)
+> VirtualBo 18978 fmoenne-  372u  IPv4 0x60ea5089c6c8d8b3      0t0  TCP *:statsrv (LISTEN)
+> VirtualBo 18978 fmoenne-  373u  IPv4 0x60ea5089c6c8e233      0t0  TCP *:microsoft-ds (LISTEN)
+> VirtualBo 18978 fmoenne-  374u  IPv4 0x60ea5089c6c8ebb3      0t0  TCP *:ddm-rdb (LISTEN)
+> VirtualBo 18978 fmoenne-  375u  IPv4 0x60ea5089c6c8f533      0t0  TCP *:ddm-dfm (LISTEN)
+> VirtualBo 18978 fmoenne-  376u  IPv4 0x60ea5089c6c8cf33      0t0  TCP *:ddm-ssl (LISTEN)
+> VirtualBo 18978 fmoenne-  377u  IPv4 0x60ea5089c6c9d233      0t0  TCP *:as-servermap (LISTEN)
+> VirtualBo 18978 fmoenne-  378u  IPv4 0x60ea5089c6c9c8b3      0t0  TCP *:mpm (LISTEN)
+> VirtualBo 18978 fmoenne-  379u  IPv4 0x60ea5089c6c9bf33      0t0  TCP *:tserver (LISTEN)
+> VirtualBo 18978 fmoenne-  380u  IPv4 0x60ea5089c6c9dbb3      0t0  TCP *:sfs-smp-net (LISTEN)
+> VirtualBo 18978 fmoenne-  381u  IPv4 0x60ea5089c6c9e533      0t0  TCP *:sfs-config (LISTEN)
+> VirtualBo 18978 fmoenne-  382u  IPv4 0x60ea5089c6ca0233      0t0  TCP *:creativeserver (LISTEN)
+> VirtualBo 18978 fmoenne-  383u  IPv4 0x60ea5089c6ca0bb3      0t0  TCP *:ingres-net (LISTEN)
+> VirtualBo 18978 fmoenne-  384u  IPv4 0x60ea5089c6ca1533      0t0  TCP *:contentserver (LISTEN)
+> VirtualBo 18978 fmoenne-  385u  IPv4 0x60ea5089c6c9f8b3      0t0  TCP *:creativepartnr (LISTEN)
+> VirtualBo 18978 fmoenne-  386u  IPv4 0x60ea5089c6c9ef33      0t0  TCP *:macon-tcp (LISTEN)
+> VirtualBo 18978 fmoenne-  387u  IPv4 0x60ea5089c6ca1f33      0t0  TCP *:scohelp (LISTEN)
+> VirtualBo 18978 fmoenne-  388u  IPv4 0x60ea5089c6ca28b3      0t0  TCP *:appleqtc (LISTEN)
+> VirtualBo 18978 fmoenne-  389u  IPv4 0x60ea5089c6ca3233      0t0  TCP *:ampr-rcmd (LISTEN)
+> VirtualBo 18978 fmoenne-  390u  IPv4 0x60ea5089c6ca3bb3      0t0  TCP *:mpm-snd (LISTEN)
+> VirtualBo 18978 fmoenne-  391u  IPv4 0x60ea5089c6ca4533      0t0  TCP *:skronk (LISTEN)
+> VirtualBo 18978 fmoenne-  392u  IPv4 0x60ea5089c6ca6233      0t0  TCP *:datasurfsrv (LISTEN)
+> VirtualBo 18978 fmoenne-  393u  IPv4 0x60ea5089c6ca58b3      0t0  TCP *:datasurfsrvsec (LISTEN)
+> VirtualBo 18978 fmoenne-  394u  IPv4 0x60ea5089c6ca6bb3      0t0  TCP *:iso-tsap (LISTEN)
+> VirtualBo 18978 fmoenne-  395u  IPv4 0x60ea5089c6ca7533      0t0  TCP *:epmap (LISTEN)
+> VirtualBo 18978 fmoenne-  396u  IPv4 0x60ea5089c6ca4f33      0t0  TCP *:alpes (LISTEN)
+> VirtualBo 18978 fmoenne-  397u  IPv4 0x60ea5089c6ca88b3      0t0  TCP *:kpasswd (LISTEN)
+> VirtualBo 18978 fmoenne-  398u  IPv4 0x60ea5089c6ca9233      0t0  TCP *:urd (LISTEN)
+> VirtualBo 18978 fmoenne-  399u  IPv4 0x60ea5089c6ca7f33      0t0  TCP *:digital-vrc (LISTEN)
+> VirtualBo 18978 fmoenne-  400u  IPv4 0x60ea5089c6ca9bb3      0t0  TCP *:mylex-mapd (LISTEN)
+> VirtualBo 18978 fmoenne-  401u  IPv4 0x60ea5089c6caa533      0t0  TCP *:photuris (LISTEN)
+> VirtualBo 18978 fmoenne-  402u  IPv4 0x60ea5089c6cacbb3      0t0  TCP *:rcp (LISTEN)
+> VirtualBo 18978 fmoenne-  403u  IPv4 0x60ea5089c6cac233      0t0  TCP *:ni-ftp (LISTEN)
+> VirtualBo 18978 fmoenne-  404u  IPv4 0x60ea5089c6cad533      0t0  TCP *:scx-proxy (LISTEN)
+> VirtualBo 18978 fmoenne-  405u  IPv4 0x60ea5089c6cab8b3      0t0  TCP *:mondex (LISTEN)
+> VirtualBo 18978 fmoenne-  406u  IPv4 0x60ea5089c6caaf33      0t0  TCP *:profile (LISTEN)
+> VirtualBo 18978 fmoenne-  407u  IPv4 0x60ea5089c6caf233      0t0  TCP *:ljk-login (LISTEN)
+> VirtualBo 18978 fmoenne-  408u  IPv4 0x60ea5089c6cafbb3      0t0  TCP *:hybrid-pop (LISTEN)
+> VirtualBo 18978 fmoenne-  409u  IPv4 0x60ea5089c6cb0533      0t0  TCP *:tn-tl-w1 (LISTEN)
+> VirtualBo 18978 fmoenne-  410u  IPv4 0x60ea5089c6cae8b3      0t0  TCP *:tcpnethaspsrv (LISTEN)
+> VirtualBo 18978 fmoenne-  411u  IPv4 0x60ea5089c6cadf33      0t0  TCP *:tn-tl-fd1 (LISTEN)
+> VirtualBo 18978 fmoenne-  412u  IPv4 0x60ea5089c6cb2bb3      0t0  TCP *:ss7ns (LISTEN)
+> VirtualBo 18978 fmoenne-  413u  IPv4 0x60ea5089c6cb2233      0t0  TCP *:spsc (LISTEN)
+> VirtualBo 18978 fmoenne-  414u  IPv4 0x60ea5089c6cb3533      0t0  TCP *:iafserver (LISTEN)
+> VirtualBo 18978 fmoenne-  415u  IPv4 0x60ea5089c6cb18b3      0t0  TCP *:auditd (LISTEN)
+> VirtualBo 18978 fmoenne-  416u  IPv4 0x60ea5089c6cb0f33      0t0  TCP *:iafdbase (LISTEN)
+> VirtualBo 18978 fmoenne-  417u  IPv4 0x60ea5089c6cb48b3      0t0  TCP *:netbios-ns (LISTEN)
+> VirtualBo 18978 fmoenne-  418u  IPv4 0x60ea5089c6cb5233      0t0  TCP *:ph (LISTEN)
+> VirtualBo 18978 fmoenne-  419u  IPv4 0x60ea5089c6cb3f33      0t0  TCP *:bgs-nsi (LISTEN)
+> VirtualBo 18978 fmoenne-  420u  IPv4 0x60ea5089c6cb5bb3      0t0  TCP *:ulpnet (LISTEN)
+> VirtualBo 18978 fmoenne-  421u  IPv4 0x60ea5089c6cb6533      0t0  TCP *:integra-sme (LISTEN)
+> VirtualBo 18978 fmoenne-  422u  IPv4 0x60ea5089c6cb9533      0t0  TCP *:powerburst (LISTEN)
+> VirtualBo 18978 fmoenne-  423u  IPv4 0x60ea5089c6cb8bb3      0t0  TCP *:avian (LISTEN)
+> VirtualBo 18978 fmoenne-  424u  IPv4 0x60ea5089c6cb8233      0t0  TCP *:saft (LISTEN)
+> VirtualBo 18978 fmoenne-  425u  IPv4 0x60ea5089c6cb78b3      0t0  TCP *:gss-http (LISTEN)
+> VirtualBo 18978 fmoenne-  426u  IPv4 0x60ea5089c6cb6f33      0t0  TCP *:nest-protocol (LISTEN)
+> VirtualBo 18978 fmoenne-  427u  IPv4 0x60ea5089c6cb9f33      0t0  TCP *:tacacs (LISTEN)
+> VirtualBo 18978 fmoenne-  428u  IPv4 0x60ea5089c6cba8b3      0t0  TCP *:netbios-dgm (LISTEN)
+> VirtualBo 18978 fmoenne-  429u  IPv4 0x60ea5089c6cbb233      0t0  TCP *:micom-pfs (LISTEN)
+> VirtualBo 18978 fmoenne-  430u  IPv4 0x60ea5089c6cbbbb3      0t0  TCP *:go-login (LISTEN)
+> VirtualBo 18978 fmoenne-  431u  IPv4 0x60ea5089c6cbc533      0t0  TCP *:ticf-1 (LISTEN)
+> VirtualBo 18978 fmoenne-  432u  IPv4 0x60ea5089c6cbebb3      0t0  TCP *:ticf-2 (LISTEN)
+> VirtualBo 18978 fmoenne-  433u  IPv4 0x60ea5089c6cbe233      0t0  TCP *:pov-ray (LISTEN)
+> VirtualBo 18978 fmoenne-  434u  IPv4 0x60ea5089c6cbd8b3      0t0  TCP *:intecourier (LISTEN)
+> VirtualBo 18978 fmoenne-  435u  IPv4 0x60ea5089c6cbf533      0t0  TCP *:pim-rp-disc (LISTEN)
+> VirtualBo 18978 fmoenne-  436u  IPv4 0x60ea5089c6cbcf33      0t0  TCP *:dantz (LISTEN)
+> VirtualBo 18978 fmoenne-  437u  IPv4 0x60ea5089c6cc1bb3      0t0  TCP *:siam (LISTEN)
+> VirtualBo 18978 fmoenne-  438u  IPv4 0x60ea5089c6cc1233      0t0  TCP *:iso-ill (LISTEN)
+> VirtualBo 18978 fmoenne-  439u  IPv4 0x60ea5089c6cc08b3      0t0  TCP *:netbios-ssn (LISTEN)
+> VirtualBo 18978 fmoenne-  440u  IPv4 0x60ea5089c6cbff33      0t0  TCP *:re-mail-ck (LISTEN)
+> VirtualBo 18978 fmoenne-  441u  IPv4 0x60ea5089c6cc2533      0t0  TCP *:isakmp (LISTEN)
+> VirtualBo 18978 fmoenne-  442u  IPv4 0x60ea5089c6cc4233      0t0  TCP *:stmf (LISTEN)
+> VirtualBo 18978 fmoenne-  443u  IPv4 0x60ea5089c6cc38b3      0t0  TCP *:asa-appl-proto (LISTEN)
+> VirtualBo 18978 fmoenne-  444u  IPv4 0x60ea5089c6cc2f33      0t0  TCP *:intrinsa (LISTEN)
+> VirtualBo 18978 fmoenne-  445u  IPv4 0x60ea5089c6cc4bb3      0t0  TCP *:citadel (LISTEN)
+> VirtualBo 18978 fmoenne-  446u  IPv4 0x60ea5089c6cc5533      0t0  TCP *:mailbox-lm (LISTEN)
+> VirtualBo 18978 fmoenne-  447u  IPv4 0x60ea5089c6cc7bb3      0t0  TCP *:ohimsrv (LISTEN)
+> VirtualBo 18978 fmoenne-  448u  IPv4 0x60ea5089c6cc7233      0t0  TCP *:crs (LISTEN)
+> VirtualBo 18978 fmoenne-  449u  IPv4 0x60ea5089c6cc68b3      0t0  TCP *:xvttp (LISTEN)
+> VirtualBo 18978 fmoenne-  450u  IPv4 0x60ea5089c6cc5f33      0t0  TCP *:14 (LISTEN)
+> VirtualBo 18978 fmoenne-  451u  IPv4 0x60ea5089c6cc8533      0t0  TCP *:snare (LISTEN)
+> VirtualBo 18978 fmoenne-  452u  IPv4 0x60ea5089c6cc8f33      0t0  TCP *:la-maint (LISTEN)
+> VirtualBo 18978 fmoenne-  453u  IPv4 0x60ea5089c6cc98b3      0t0  TCP *:fcp (LISTEN)
+> VirtualBo 18978 fmoenne-  454u  IPv4 0x60ea5089c6cca233      0t0  TCP *:passgo (LISTEN)
+> VirtualBo 18978 fmoenne-  455u  IPv4 0x60ea5089c6ccabb3      0t0  TCP *:exec (LISTEN)
+> VirtualBo 18978 fmoenne-  456u  IPv4 0x60ea5089c6ccb533      0t0  TCP *:login (LISTEN)
+> VirtualBo 18978 fmoenne-  457u  IPv4 0x60ea5089c6ccdbb3      0t0  TCP *:shell (LISTEN)
+> VirtualBo 18978 fmoenne-  458u  IPv4 0x60ea5089c6ccd233      0t0  TCP *:printer (LISTEN)
+> VirtualBo 18978 fmoenne-  459u  IPv4 0x60ea5089c6cce533      0t0  TCP *:videotex (LISTEN)
+> VirtualBo 18978 fmoenne-  460u  IPv4 0x60ea5089c6ccc8b3      0t0  TCP *:talk (LISTEN)
+> VirtualBo 18978 fmoenne-  461u  IPv4 0x60ea5089c6ccbf33      0t0  TCP *:emfis-data (LISTEN)
+> VirtualBo 18978 fmoenne-  462u  IPv4 0x60ea5089c6cd0bb3      0t0  TCP *:ntalk (LISTEN)
+> VirtualBo 18978 fmoenne-  463u  IPv4 0x60ea5089c6cd1533      0t0  TCP *:utime (LISTEN)
+> VirtualBo 18978 fmoenne-  464u  IPv4 0x60ea5089c6cd0233      0t0  TCP *:xns-time (LISTEN)
+> VirtualBo 18978 fmoenne-  465u  IPv4 0x60ea5089c6ccf8b3      0t0  TCP *:domain (LISTEN)
+> VirtualBo 18978 fmoenne-  466u  IPv4 0x60ea5089c6ccef33      0t0  TCP *:xns-ch (LISTEN)
+> VirtualBo 18978 fmoenne-  467u  IPv4 0x60ea5089c6ce5233      0t0  TCP *:isi-gl (LISTEN)
+> VirtualBo 18978 fmoenne-  468u  IPv4 0x60ea5089c6ce5bb3      0t0  TCP *:xns-auth (LISTEN)
+> VirtualBo 18978 fmoenne-  469u  IPv4 0x60ea5089c6ce48b3      0t0  TCP *:57 (LISTEN)
+> VirtualBo 18978 fmoenne-  470u  IPv4 0x60ea5089c6ce6533      0t0  TCP *:xns-mail (LISTEN)
+> VirtualBo 18978 fmoenne-  471u  IPv4 0x60ea5089c6ce3f33      0t0  TCP *:59 (LISTEN)
+> VirtualBo 18978 fmoenne-  472u  IPv4 0x60ea5089c6cfe533      0t0  TCP *:emfis-cntl (LISTEN)
+> VirtualBo 18978 fmoenne-  473u  IPv4 0x60ea5089c6cfdbb3      0t0  TCP *:60 (LISTEN)
+> VirtualBo 18978 fmoenne-  474u  IPv4 0x60ea5089c6cfd233      0t0  TCP *:ni-mail (LISTEN)
+> VirtualBo 18978 fmoenne-  475u  IPv4 0x60ea5089c6cfc8b3      0t0  TCP *:acas (LISTEN)
+> VirtualBo 18978 fmoenne-  476u  IPv4 0x60ea5089c6cfbf33      0t0  TCP *:whois++ (LISTEN)
+> VirtualBo 18978 fmoenne-  477u  IPv4 0x60ea5089c6d038b3      0t0  TCP *:covia (LISTEN)
+> VirtualBo 18978 fmoenne-  478u  IPv4 0x60ea5089c6d04233      0t0  TCP *:tacacs-ds (LISTEN)
+> VirtualBo 18978 fmoenne-  479u  IPv4 0x60ea5089c6d04bb3      0t0  TCP *:sql*net (LISTEN)
+> VirtualBo 18978 fmoenne-  480u  IPv4 0x60ea5089c6d05533      0t0  TCP *:bootps (LISTEN)
+> VirtualBo 18978 fmoenne-  481u  IPv4 0x60ea5089c6d02f33      0t0  TCP *:bootpc (LISTEN)
+> VirtualBo 18978 fmoenne-  482u  IPv4 0x60ea5089c6d07bb3      0t0  TCP *:tftp (LISTEN)
+> VirtualBo 18978 fmoenne-  483u  IPv4 0x60ea5089c6d07233      0t0  TCP *:bl-idm (LISTEN)
+> VirtualBo 18978 fmoenne-  484u  IPv4 0x60ea5089c6d068b3      0t0  TCP *:gopher (LISTEN)
+> VirtualBo 18978 fmoenne-  485u  IPv4 0x60ea5089c6d08533      0t0  TCP *:netrjs-1 (LISTEN)
+> VirtualBo 18978 fmoenne-  486u  IPv4 0x60ea5089c6d05f33      0t0  TCP *:netrjs-2 (LISTEN)
+> VirtualBo 18978 fmoenne-  487u  IPv4 0x60ea5089c6d0a233      0t0  TCP *:netrjs-3 (LISTEN)
+> VirtualBo 18978 fmoenne-  488u  IPv4 0x60ea5089c6d0abb3      0t0  TCP *:netrjs-4 (LISTEN)
+> VirtualBo 18978 fmoenne-  489u  IPv4 0x60ea5089c6d098b3      0t0  TCP *:75 (LISTEN)
+> VirtualBo 18978 fmoenne-  490u  IPv4 0x60ea5089c6d08f33      0t0  TCP *:deos (LISTEN)
+> VirtualBo 18978 fmoenne-  491u  IPv4 0x60ea5089c6d0b533      0t0  TCP *:77 (LISTEN)
+> VirtualBo 18978 fmoenne-  492u  IPv4 0x60ea5089c6d0c8b3      0t0  TCP *:vettcp (LISTEN)
+> VirtualBo 18978 fmoenne-  493u  IPv4 0x60ea5089c6d0bf33      0t0  TCP *:finger (LISTEN)
+> VirtualBo 18978 fmoenne-  494u  IPv4 0x60ea5089c6d0d233      0t0  TCP *:imap (LISTEN)
+> VirtualBo 18978 fmoenne-  495u  IPv4 0x60ea5089c6d0dbb3      0t0  TCP *:http (LISTEN)
+> VirtualBo 18978 fmoenne-  496u  IPv4 0x60ea5089c6d0e533      0t0  TCP *:hosts2-ns (LISTEN)
+> VirtualBo 18978 fmoenne-  497u  IPv4 0x60ea5089c6d10bb3      0t0  TCP *:xfer (LISTEN)
+> VirtualBo 18978 fmoenne-  498u  IPv4 0x60ea5089c6d11533      0t0  TCP *:mit-ml-dev (LISTEN)
+> VirtualBo 18978 fmoenne-  499u  IPv4 0x60ea5089c6d10233      0t0  TCP *:ctf (LISTEN)
+> VirtualBo 18978 fmoenne-  500u  IPv4 0x60ea5089c6d0f8b3      0t0  TCP *:mit-ml-dev (LISTEN)
+> VirtualBo 18978 fmoenne-  501u  IPv4 0x60ea5089c6d0ef33      0t0  TCP *:mfcobol (LISTEN)
+> VirtualBo 18978 fmoenne-  502u  IPv4 0x60ea5089c6d13233      0t0  TCP *:87 (LISTEN)
+> VirtualBo 18978 fmoenne-  503u  IPv4 0x60ea5089c6d128b3      0t0  TCP *:su-mit-tg (LISTEN)
+> VirtualBo 18978 fmoenne-  504u  IPv4 0x60ea5089c6d11f33      0t0  TCP *:gppitnp (LISTEN)
+> VirtualBo 18978 fmoenne-  505u  IPv4 0x60ea5089c6d14533      0t0  TCP *:uma (LISTEN)
+> VirtualBo 18978 fmoenne-  506u  IPv4 0x60ea5089c6d16233      0t0  TCP *:dnsix (LISTEN)
+> VirtualBo 18978 fmoenne-  507u  IPv4 0x60ea5089c6d16bb3      0t0  TCP *:mit-dov (LISTEN)
+> VirtualBo 18978 fmoenne-  508u  IPv4 0x60ea5089c6d158b3      0t0  TCP *:npp (LISTEN)
+> VirtualBo 18978 fmoenne-  509u  IPv4 0x60ea5089c6d17533      0t0  TCP *:dcp (LISTEN)
+> VirtualBo 18978 fmoenne-  510u  IPv4 0x60ea5089c6d14f33      0t0  TCP *:objcall (LISTEN)
+> VirtualBo 18978 fmoenne-  511u  IPv4 0x60ea5089c6d19bb3      0t0  TCP *:supdup (LISTEN)
+> VirtualBo 18978 fmoenne-  512u  IPv4 0x60ea5089c6d1a533      0t0  TCP *:dixie (LISTEN)
+> VirtualBo 18978 fmoenne-  513u  IPv4 0x60ea5089c6d19233      0t0  TCP *:swift-rvf (LISTEN)
+> VirtualBo 18978 fmoenne-  514u  IPv4 0x60ea5089c6d188b3      0t0  TCP *:tacnews (LISTEN)
+> VirtualBo 18978 fmoenne-  515u  IPv4 0x60ea5089c6d17f33      0t0  TCP *:metagram (LISTEN)
+> VirtualBo 18978 fmoenne-  516u  IPv4 0x60ea5089c6d1af33      0t0  TCP *:uaac (LISTEN)
+> VirtualBo 18978 fmoenne-  517u  IPv4 0x60ea5089b03cebbb      0t0  UDP *:10
+> VirtualBo 18978 fmoenne-  518u  IPv4 0x60ea5089b03ce64b      0t0  UDP *:100
+> VirtualBo 18978 fmoenne-  519u  IPv4 0x60ea5089b03d326b      0t0  UDP *:hostname
+> VirtualBo 18978 fmoenne-  520u  IPv4 0x60ea5089b03d0c5b      0t0  UDP *:iso-tsap
+> VirtualBo 18978 fmoenne-  521u  IPv4 0x60ea5089b03d1483      0t0  UDP *:gppitnp
+> VirtualBo 18978 fmoenne-  522u  IPv4 0x60ea5089b03d2fb3      0t0  UDP *:acr-nema
+> VirtualBo 18978 fmoenne-  523u  IPv4 0x60ea5089b03cee73      0t0  UDP *:cso
+> VirtualBo 18978 fmoenne-  524u  IPv4 0x60ea5089b03d1f63      0t0  UDP *:3com-tsmux
+> VirtualBo 18978 fmoenne-  525u  IPv4 0x60ea5089b03d221b      0t0  UDP *:rtelnet
+> VirtualBo 18978 fmoenne-  526u  IPv4 0x60ea5089b03cf3e3      0t0  UDP *:snagas
+> VirtualBo 18978 fmoenne-  527u  IPv4 0x60ea5089c6d1b8b3      0t0  TCP *:iso-tp0 (LISTEN)
+> VirtualBo 18978 fmoenne-  528u  IPv4 0x60ea5089b03cdb6b      0t0  UDP *:pop2
+> VirtualBo 18978 fmoenne-  529u  IPv4 0x60ea5089b03d2a43      0t0  UDP *:systat
+> VirtualBo 18978 fmoenne-  530u  IPv4 0x60ea5089b03ce393      0t0  UDP *:pop3
+> VirtualBo 18978 fmoenne-  531u  IPv4 0x60ea5089b03d3523      0t0  UDP *:sunrpc
+> VirtualBo 18978 fmoenne-  532u  IPv4 0x60ea5089b5d239a3      0t0  UDP *:mcidas
+> VirtualBo 18978 fmoenne-  533u  IPv4 0x60ea5089b5d24483      0t0  UDP *:auth
+> VirtualBo 18978 fmoenne-  534u  IPv4 0x60ea5089b5d241cb      0t0  UDP *:audionews
+> VirtualBo 18978 fmoenne-  535u  IPv4 0x60ea5089b5d26523      0t0  UDP *:sftp
+> VirtualBo 18978 fmoenne-  536u  IPv4 0x60ea5089b5d2473b      0t0  UDP *:ansanotify
+> VirtualBo 18978 fmoenne-  537u  IPv4 0x60ea5089b5d210db      0t0  UDP *:uucp-path
+> VirtualBo 18978 fmoenne-  538u  IPv4 0x60ea5089c6d1c233      0t0  TCP *:iso-ip (LISTEN)
+> VirtualBo 18978 fmoenne-  539u  IPv4 0x60ea5089b5d249f3      0t0  UDP *:sqlserv
+> VirtualBo 18978 fmoenne-  540u  IPv4 0x60ea5089b5d24cab      0t0  UDP *:nntp
+> VirtualBo 18978 fmoenne-  541u  IPv4 0x60ea5089b5d22c0b      0t0  UDP *:12
+> VirtualBo 18978 fmoenne-  542u  IPv4 0x60ea5089b5d2521b      0t0  UDP *:cfdptkt
+> VirtualBo 18978 fmoenne-  543u  IPv4 0x60ea5089b5d223e3      0t0  UDP *:erpc
+> VirtualBo 18978 fmoenne-  544u  IPv4 0x60ea5089b5d25a43      0t0  UDP *:smakynet
+> VirtualBo 18978 fmoenne-  545u  IPv4 0x60ea5089b5d236eb      0t0  UDP *:ntp
+> VirtualBo 18978 fmoenne-  546u  IPv4 0x60ea5089b5d21393      0t0  UDP *:ansatrader
+> VirtualBo 18978 fmoenne-  547u  IPv4 0x60ea5089b5d22ec3      0t0  UDP *:locus-map
+> VirtualBo 18978 fmoenne-  548u  IPv4 0x60ea5089b5d254d3      0t0  UDP *:nxedit
+> VirtualBo 18978 fmoenne-  549u  IPv4 0x60ea5089c6d1cbb3      0t0  TCP *:jargon (LISTEN)
+> VirtualBo 18978 fmoenne-  550u  IPv4 0x60ea5089b5d2317b      0t0  UDP *:locus-con
+> VirtualBo 18978 fmoenne-  551u  IPv4 0x60ea5089b5d2626b      0t0  UDP *:gss-xlicen
+> VirtualBo 18978 fmoenne-  552u  IPv4 0x60ea5089b5d2269b      0t0  UDP *:pwdgen
+> VirtualBo 18978 fmoenne-  553u  IPv4 0x60ea5089b5d20b6b      0t0  UDP *:daytime
+> VirtualBo 18978 fmoenne-  554u  IPv4 0x60ea5089b5d23c5b      0t0  UDP *:cisco-fna
+> VirtualBo 18978 fmoenne-  555u  IPv4 0x60ea5089b5d21e73      0t0  UDP *:cisco-tna
+> VirtualBo 18978 fmoenne-  556u  IPv4 0x60ea5089b5d21bbb      0t0  UDP *:cisco-sys
+> VirtualBo 18978 fmoenne-  557u  IPv4 0x60ea5089b5d23f13      0t0  UDP *:statsrv
+> VirtualBo 18978 fmoenne-  558u  IPv4 0x60ea5089b5d23433      0t0  UDP *:ingres-net
+> VirtualBo 18978 fmoenne-  559u  IPv4 0x60ea5089b5d20e23      0t0  UDP *:epmap
+> VirtualBo 18978 fmoenne-  560u  IPv4 0x60ea5089c6d1d533      0t0  TCP *:aed-512 (LISTEN)
+> VirtualBo 18978 fmoenne-  561u  IPv4 0x60ea5089b5d22953      0t0  UDP *:profile
+> VirtualBo 18978 fmoenne-  562u  IPv4 0x60ea5089b5d21903      0t0  UDP *:netbios-ssn
+> VirtualBo 18978 fmoenne-  563u  IPv4 0x60ea5089b5d2578b      0t0  UDP *:14
+> VirtualBo 18978 fmoenne-  564u  IPv4 0x60ea5089b29df78b      0t0  UDP *:emfis-data
+> VirtualBo 18978 fmoenne-  565u  IPv4 0x60ea5089b29def63      0t0  UDP *:emfis-cntl
+> VirtualBo 18978 fmoenne-  566u  IPv4 0x60ea5089b29dd17b      0t0  UDP *:bl-idm
+> VirtualBo 18978 fmoenne-  567u  IPv4 0x60ea5089b29de73b      0t0  UDP *:imap
+> VirtualBo 18978 fmoenne-  568u  IPv4 0x60ea5089b29dc69b      0t0  UDP *:uma
+> VirtualBo 18978 fmoenne-  569u  IPv4 0x60ea5089c6d1fbb3      0t0  TCP *:15 (LISTEN)
+> VirtualBo 18978 fmoenne-  570u  IPv4 0x60ea5089b29dcec3      0t0  UDP *:uaac
+> VirtualBo 18978 fmoenne-  571u  IPv4 0x60ea5089b29ddf13      0t0  UDP *:iso-tp0
+> VirtualBo 18978 fmoenne-  572u  IPv4 0x60ea5089b29dae23      0t0  UDP *:iso-ip
+> VirtualBo 18978 fmoenne-  573u  IPv4 0x60ea5089b29decab      0t0  UDP *:jargon
+> VirtualBo 18978 fmoenne-  574u  IPv4 0x60ea5089b29e026b      0t0  UDP *:aed-512
+> VirtualBo 18978 fmoenne-  575u  IPv4 0x60ea5089b29df4d3      0t0  UDP *:15
+> VirtualBo 18978 fmoenne-  576u  IPv4 0x60ea5089b29db393      0t0  UDP *:sql-net
+> VirtualBo 18978 fmoenne-  577u  IPv4 0x60ea5089b29db64b      0t0  UDP *:hems
+> VirtualBo 18978 fmoenne-  578u  IPv4 0x60ea5089b29dc12b      0t0  UDP *:bftp
+> VirtualBo 18978 fmoenne-  579u  IPv4 0x60ea5089b29de9f3      0t0  UDP *:sgmp
+> VirtualBo 18978 fmoenne-  580u  IPv4 0x60ea5089c6d1f233      0t0  TCP *:sql-net (LISTEN)
+> VirtualBo 18978 fmoenne-  581u  IPv4 0x60ea5089b29dbe73      0t0  UDP *:netsc-prod
+> VirtualBo 18978 fmoenne-  582u  IPv4 0x60ea5089b29dbbbb      0t0  UDP *:netsc-dev
+> VirtualBo 18978 fmoenne-  583u  IPv4 0x60ea5089b29e0523      0t0  UDP *:sqlsrv
+> VirtualBo 18978 fmoenne-  584u  IPv4 0x60ea5089b29ddc5b      0t0  UDP *:knet-cmp
+> VirtualBo 18978 fmoenne-  585u  IPv4 0x60ea5089b29dc953      0t0  UDP *:pcmail-srv
+> VirtualBo 18978 fmoenne-  586u  IPv4 0x60ea5089b29dc3e3      0t0  UDP *:nss-routing
+> VirtualBo 18978 fmoenne-  587u  IPv4 0x60ea5089b29db0db      0t0  UDP *:16
+> VirtualBo 18978 fmoenne-  588u  IPv4 0x60ea5089b29db903      0t0  UDP *:sgmp-traps
+> VirtualBo 18978 fmoenne-  589u  IPv4 0x60ea5089b7fb5433      0t0  UDP *:snmptrap
+> VirtualBo 18978 fmoenne-  590u  IPv4 0x60ea5089c6d1e8b3      0t0  TCP *:hems (LISTEN)
+> VirtualBo 18978 fmoenne-  591u  IPv4 0x60ea5089b7fb3393      0t0  UDP *:cmip-man
+> VirtualBo 18978 fmoenne-  592u  IPv4 0x60ea5089b7fb74d3      0t0  UDP *:cmip-agent
+> VirtualBo 18978 fmoenne-  593u  IPv4 0x60ea5089b7fb826b      0t0  UDP *:xns-courier
+> VirtualBo 18978 fmoenne-  594u  IPv4 0x60ea5089b7fb56eb      0t0  UDP *:s-net
+> VirtualBo 18978 fmoenne-  595u  IPv4 0x60ea5089b7fb469b      0t0  UDP *:namp
+> VirtualBo 18978 fmoenne-  596u  IPv4 0x60ea5089b7fb43e3      0t0  UDP *:rsvd
+> VirtualBo 18978 fmoenne-  597u  IPv4 0x60ea5089b7fb778b      0t0  UDP *:send
+> VirtualBo 18978 fmoenne-  598u  IPv4 0x60ea5089b7fb4953      0t0  UDP *:qotd
+> VirtualBo 18978 fmoenne-  599u  IPv4 0x60ea5089b7fb6483      0t0  UDP *:print-srv
+> VirtualBo 18978 fmoenne-  600u  IPv4 0x60ea5089b7fb61cb      0t0  UDP *:multiplex
+> VirtualBo 18978 fmoenne-  601u  IPv4 0x60ea5089c6d20533      0t0  TCP *:bftp (LISTEN)
+> VirtualBo 18978 fmoenne-  602u  IPv4 0x60ea5089b7fb6f63      0t0  UDP *:cl/1
+> VirtualBo 18978 fmoenne-  603u  IPv4 0x60ea5089b7fb364b      0t0  UDP *:xyplex-mux
+> VirtualBo 18978 fmoenne-  604u  IPv4 0x60ea5089b7fb721b      0t0  UDP *:mailq
+> VirtualBo 18978 fmoenne-  605u  IPv4 0x60ea5089b7fb2e23      0t0  UDP *:vmnet
+> VirtualBo 18978 fmoenne-  606u  IPv4 0x60ea5089b7fb2b6b      0t0  UDP *:genrad-mux
+> VirtualBo 18978 fmoenne-  607u  IPv4 0x60ea5089b7fb517b      0t0  UDP *:xdmcp
+> VirtualBo 18978 fmoenne-  608u  IPv4 0x60ea5089b7fb412b      0t0  UDP *:nextstep
+> VirtualBo 18978 fmoenne-  609u  IPv4 0x60ea5089b7fb3e73      0t0  UDP *:bgp
+> VirtualBo 18978 fmoenne-  610u  IPv4 0x60ea5089b7fb59a3      0t0  UDP *:msp
+> VirtualBo 18978 fmoenne-  611u  IPv4 0x60ea5089b7fb5c5b      0t0  UDP *:ris
+> VirtualBo 18978 fmoenne-  612u  IPv4 0x60ea5089c6d1df33      0t0  TCP *:acr-nema (LISTEN)
+> VirtualBo 18978 fmoenne-  613u  IPv4 0x60ea5089c6d22bb3      0t0  TCP *:sgmp (LISTEN)
+> VirtualBo 18978 fmoenne-  614u  IPv4 0x60ea5089b7fb3bbb      0t0  UDP *:unify
+> VirtualBo 18978 fmoenne-  615u  IPv4 0x60ea5089b7fb5f13      0t0  UDP *:audit
+> VirtualBo 18978 fmoenne-  616u  IPv4 0x60ea5089b7fb7a43      0t0  UDP *:ocbinder
+> VirtualBo 18978 fmoenne-  617u  IPv4 0x60ea5089b7fb7cfb      0t0  UDP *:ocserver
+> VirtualBo 18978 fmoenne-  618u  IPv4 0x60ea5089b7fb30db      0t0  UDP *:remote-kis
+> VirtualBo 18978 fmoenne-  619u  IPv4 0x60ea5089b7fb7fb3      0t0  UDP *:kis
+> VirtualBo 18978 fmoenne-  620u  IPv4 0x60ea5089b7fb8523      0t0  UDP *:aci
+> VirtualBo 18978 fmoenne-  621u  IPv4 0x60ea5089b7fb28b3      0t0  UDP *:mumps
+> VirtualBo 18978 fmoenne-  622u  IPv4 0x60ea5089b29fa73b      0t0  UDP *:qft
+> VirtualBo 18978 fmoenne-  623u  IPv4 0x60ea5089b29f6b6b      0t0  UDP *:chargen
+> VirtualBo 18978 fmoenne-  624u  IPv4 0x60ea5089c6d22233      0t0  TCP *:netsc-prod (LISTEN)
+> VirtualBo 18978 fmoenne-  625u  IPv4 0x60ea5089b29f812b      0t0  UDP *:gacp
+> VirtualBo 18978 fmoenne-  626u  IPv4 0x60ea5089b29fbfb3      0t0  UDP *:prospero
+> VirtualBo 18978 fmoenne-  627u  IPv4 0x60ea5089b29f99a3      0t0  UDP *:osu-nms
+> VirtualBo 18978 fmoenne-  628u  IPv4 0x60ea5089b29fc523      0t0  UDP *:srmp
+> VirtualBo 18978 fmoenne-  629u  IPv4 0x60ea5089b29f8ec3      0t0  UDP *:irc
+> VirtualBo 18978 fmoenne-  630u  IPv4 0x60ea5089b29fb21b      0t0  UDP *:dn6-nlm-aud
+> VirtualBo 18978 fmoenne-  631u  IPv4 0x60ea5089b29fb4d3      0t0  UDP *:dn6-smm-red
+> VirtualBo 18978 fmoenne-  632u  IPv4 0x60ea5089b29f7903      0t0  UDP *:dls
+> VirtualBo 18978 fmoenne-  633u  IPv4 0x60ea5089b29f96eb      0t0  UDP *:dls-mon
+> VirtualBo 18978 fmoenne-  634u  IPv4 0x60ea5089b29f917b      0t0  UDP *:smux
+> VirtualBo 18978 fmoenne-  635u  IPv4 0x60ea5089c6d23533      0t0  TCP *:netsc-dev (LISTEN)
+> VirtualBo 18978 fmoenne-  636u  IPv4 0x60ea5089b29fa1cb      0t0  UDP *:ftp-data
+> VirtualBo 18978 fmoenne-  637u  IPv4 0x60ea5089b29f83e3      0t0  UDP *:src
+> VirtualBo 18978 fmoenne-  638u  IPv4 0x60ea5089b29f8c0b      0t0  UDP *:at-rtmp
+> VirtualBo 18978 fmoenne-  639u  IPv4 0x60ea5089b29f7393      0t0  UDP *:at-nbp
+> VirtualBo 18978 fmoenne-  640u  IPv4 0x60ea5089b29f7bbb      0t0  UDP *:at-3
+> VirtualBo 18978 fmoenne-  641u  IPv4 0x60ea5089b29f9433      0t0  UDP *:at-echo
+> VirtualBo 18978 fmoenne-  642u  IPv4 0x60ea5089b29fa483      0t0  UDP *:at-5
+> VirtualBo 18978 fmoenne-  643u  IPv4 0x60ea5089b29f7e73      0t0  UDP *:at-zis
+> VirtualBo 18978 fmoenne-  644u  IPv4 0x60ea5089b29f764b      0t0  UDP *:at-7
+> VirtualBo 18978 fmoenne-  645u  IPv4 0x60ea5089b29f70db      0t0  UDP *:at-8
+> VirtualBo 18978 fmoenne-  646u  IPv4 0x60ea5089c6d218b3      0t0  TCP *:sqlsrv (LISTEN)
+> VirtualBo 18978 fmoenne-  647u  IPv4 0x60ea5089b285dcfb      0t0  UDP *:qmtp
+> VirtualBo 18978 fmoenne-  648u  IPv4 0x60ea5089b285d21b      0t0  UDP *:ftp
+> VirtualBo 18978 fmoenne-  649u  IPv4 0x60ea5089b285dfb3      0t0  UDP *:z39.50
+> VirtualBo 18978 fmoenne-  650u  IPv4 0x60ea5089b285d78b      0t0  UDP *:914c/g
+> VirtualBo 18978 fmoenne-  651u  IPv4 0x60ea5089b285e26b      0t0  UDP *:anet
+> VirtualBo 18978 fmoenne-  652u  IPv4 0x60ea5089b2859bbb      0t0  UDP *:ipx
+> VirtualBo 18978 fmoenne-  653u  IPv4 0x60ea5089b285cf63      0t0  UDP *:vmpwscs
+> VirtualBo 18978 fmoenne-  654u  IPv4 0x60ea5089b285e523      0t0  UDP *:softpc
+> VirtualBo 18978 fmoenne-  655u  IPv4 0x60ea5089b2858e23      0t0  UDP *:CAIlic
+> VirtualBo 18978 fmoenne-  656u  IPv4 0x60ea5089b285c9f3      0t0  UDP *:dbase
+> VirtualBo 18978 fmoenne-  657u  IPv4 0x60ea5089c6d20f33      0t0  TCP *:knet-cmp (LISTEN)
+> VirtualBo 18978 fmoenne-  658u  IPv4 0x60ea5089b285ccab      0t0  UDP *:mpp
+> VirtualBo 18978 fmoenne-  659u  IPv4 0x60ea5089b285aec3      0t0  UDP *:uarps
+> VirtualBo 18978 fmoenne-  660u  IPv4 0x60ea5089b285a3e3      0t0  UDP *:ssh
+> VirtualBo 18978 fmoenne-  661u  IPv4 0x60ea5089b2859393      0t0  UDP *:imap3
+> VirtualBo 18978 fmoenne-  662u  IPv4 0x60ea5089b285bc5b      0t0  UDP *:fln-spx
+> VirtualBo 18978 fmoenne-  663u  IPv4 0x60ea5089b285da43      0t0  UDP *:rsh-spx
+> VirtualBo 18978 fmoenne-  664u  IPv4 0x60ea5089b285c483      0t0  UDP *:cdc
+> VirtualBo 18978 fmoenne-  665u  IPv4 0x60ea5089b285ac0b      0t0  UDP *:masqdialer
+> VirtualBo 18978 fmoenne-  666u  IPv4 0x60ea5089b285a69b      0t0  UDP *:225
+> VirtualBo 18978 fmoenne-  667u  IPv4 0x60ea5089b285c1cb      0t0  UDP *:226
+> VirtualBo 18978 fmoenne-  668u  IPv4 0x60ea5089c6d25233      0t0  TCP *:pcmail-srv (LISTEN)
+> VirtualBo 18978 fmoenne-  669u  IPv4 0x60ea5089b2859903      0t0  UDP *:227
+> VirtualBo 18978 fmoenne-  670u  IPv4 0x60ea5089b285bf13      0t0  UDP *:228
+> VirtualBo 18978 fmoenne-  671u  IPv4 0x60ea5089b285b17b      0t0  UDP *:229
+> VirtualBo 18978 fmoenne-  672u  IPv4 0x60ea5089b285964b      0t0  UDP *:telnet
+> VirtualBo 18978 fmoenne-  673u  IPv4 0x60ea5089b2858b6b      0t0  UDP *:230
+> VirtualBo 18978 fmoenne-  674u  IPv4 0x60ea5089b28588b3      0t0  UDP *:231
+> VirtualBo 18978 fmoenne-  675u  IPv4 0x60ea5089c6d299a3      0t0  UDP *:232
+> VirtualBo 18978 fmoenne-  676u  IPv4 0x60ea5089c6d296eb      0t0  UDP *:233
+> VirtualBo 18978 fmoenne-  677u  IPv4 0x60ea5089c6d29433      0t0  UDP *:234
+> VirtualBo 18978 fmoenne-  678u  IPv4 0x60ea5089c6d2917b      0t0  UDP *:235
+> VirtualBo 18978 fmoenne-  679u  IPv4 0x60ea5089c6d248b3      0t0  TCP *:nss-routing (LISTEN)
+> VirtualBo 18978 fmoenne-  680u  IPv4 0x60ea5089c6d29c5b      0t0  UDP *:236
+> VirtualBo 18978 fmoenne-  681u  IPv4 0x60ea5089c6d28ec3      0t0  UDP *:237
+> VirtualBo 18978 fmoenne-  682u  IPv4 0x60ea5089c6d28c0b      0t0  UDP *:238
+> VirtualBo 18978 fmoenne-  683u  IPv4 0x60ea5089c6d28953      0t0  UDP *:239
+> VirtualBo 18978 fmoenne-  684u  IPv4 0x60ea5089c6d29f13      0t0  UDP *:24
+> VirtualBo 18978 fmoenne-  685u  IPv4 0x60ea5089c6d2869b      0t0  UDP *:240
+> VirtualBo 18978 fmoenne-  686u  IPv4 0x60ea5089c6d2a1cb      0t0  UDP *:241
+> VirtualBo 18978 fmoenne-  687u  IPv4 0x60ea5089c6d2a483      0t0  UDP *:direct
+> VirtualBo 18978 fmoenne-  688u  IPv4 0x60ea5089c6d2a73b      0t0  UDP *:sur-meas
+> VirtualBo 18978 fmoenne-  689u  IPv4 0x60ea5089c6d2a9f3      0t0  UDP *:inbusiness
+> VirtualBo 18978 fmoenne-  690u  IPv4 0x60ea5089c6d23f33      0t0  TCP *:16 (LISTEN)
+> VirtualBo 18978 fmoenne-  691u  IPv4 0x60ea5089c6d2acab      0t0  UDP *:link
+> VirtualBo 18978 fmoenne-  692u  IPv4 0x60ea5089c6d2af63      0t0  UDP *:dsp3270
+> VirtualBo 18978 fmoenne-  693u  IPv4 0x60ea5089c6d2b21b      0t0  UDP *:subntbcst_tftp
+> VirtualBo 18978 fmoenne-  694u  IPv4 0x60ea5089c6d2b4d3      0t0  UDP *:bhfhs
+> VirtualBo 18978 fmoenne-  695u  IPv4 0x60ea5089c6d283e3      0t0  UDP *:249
+> VirtualBo 18978 fmoenne-  696u  IPv4 0x60ea5089c6d2812b      0t0  UDP *:smtp
+> VirtualBo 18978 fmoenne-  697u  IPv4 0x60ea5089c6d2b78b      0t0  UDP *:250
+> VirtualBo 18978 fmoenne-  698u  IPv4 0x60ea5089c6d2ba43      0t0  UDP *:251
+> VirtualBo 18978 fmoenne-  699u  IPv4 0x60ea5089c6d2bcfb      0t0  UDP *:252
+> VirtualBo 18978 fmoenne-  700u  IPv4 0x60ea5089c6d2bfb3      0t0  UDP *:253
+> VirtualBo 18978 fmoenne-  701u  IPv4 0x60ea5089c6d25bb3      0t0  TCP *:sgmp-traps (LISTEN)
+> VirtualBo 18978 fmoenne-  702u  IPv4 0x60ea5089c6d27e73      0t0  UDP *:254
+> VirtualBo 18978 fmoenne-  703u  IPv4 0x60ea5089c6d2c26b      0t0  UDP *:255
+> VirtualBo 18978 fmoenne-  704u  IPv4 0x60ea5089c6d27bbb      0t0  UDP *:rap
+> VirtualBo 18978 fmoenne-  705u  IPv4 0x60ea5089c6d27903      0t0  UDP *:set
+> VirtualBo 18978 fmoenne-  706u  IPv4 0x60ea5089c6d2764b      0t0  UDP *:yak-chat
+> VirtualBo 18978 fmoenne-  707u  IPv4 0x60ea5089c6d27393      0t0  UDP *:esro-gen
+> VirtualBo 18978 fmoenne-  708u  IPv4 0x60ea5089c6d2c523      0t0  UDP *:26
+> VirtualBo 18978 fmoenne-  709u  IPv4 0x60ea5089c6d270db      0t0  UDP *:openport
+> VirtualBo 18978 fmoenne-  710u  IPv4 0x60ea5089c6d26e23      0t0  UDP *:nsiiops
+> VirtualBo 18978 fmoenne-  711u  IPv4 0x60ea5089c6d26b6b      0t0  UDP *:arcisdms
+> VirtualBo 18978 fmoenne-  712u  IPv4 0x60ea5089c6d26533      0t0  TCP *:snmp (LISTEN)
+> VirtualBo 18978 fmoenne-  713u  IPv4 0x60ea5089c6d268b3      0t0  UDP *:hdap
+> VirtualBo 18978 fmoenne-  714u  IPv4 0x60ea5089c6d34f13      0t0  UDP *:bgmp
+> VirtualBo 18978 fmoenne-  715u  IPv4 0x60ea5089c6d351cb      0t0  UDP *:x-bone-ctl
+> VirtualBo 18978 fmoenne-  716u  IPv4 0x60ea5089c6d35483      0t0  UDP *:sst
+> VirtualBo 18978 fmoenne-  717u  IPv4 0x60ea5089c6d34c5b      0t0  UDP *:td-service
+> VirtualBo 18978 fmoenne-  718u  IPv4 0x60ea5089c6d3573b      0t0  UDP *:td-replica
+> VirtualBo 18978 fmoenne-  719u  IPv4 0x60ea5089c6d359f3      0t0  UDP *:269
+> VirtualBo 18978 fmoenne-  720u  IPv4 0x60ea5089c6d349a3      0t0  UDP *:nsw-fe
+> VirtualBo 18978 fmoenne-  721u  IPv4 0x60ea5089c6d346eb      0t0  UDP *:270
+> VirtualBo 18978 fmoenne-  722u  IPv4 0x60ea5089c6d35cab      0t0  UDP *:271
+> VirtualBo 18978 fmoenne-  723u  IPv4 0x60ea5089c6d3ebb3      0t0  TCP *:cso (LISTEN)
+> VirtualBo 18978 fmoenne-  724u  IPv4 0x60ea5089c6d3e233      0t0  TCP *:snmptrap (LISTEN)
+> VirtualBo 18978 fmoenne-  725u  IPv4 0x60ea5089c6d35f63      0t0  UDP *:272
+> VirtualBo 18978 fmoenne-  726u  IPv4 0x60ea5089c6d34433      0t0  UDP *:273
+> VirtualBo 18978 fmoenne-  727u  IPv4 0x60ea5089c6d3417b      0t0  UDP *:274
+> VirtualBo 18978 fmoenne-  728u  IPv4 0x60ea5089c6d33ec3      0t0  UDP *:275
+> VirtualBo 18978 fmoenne-  729u  IPv4 0x60ea5089c6d33c0b      0t0  UDP *:276
+> VirtualBo 18978 fmoenne-  730u  IPv4 0x60ea5089c6d33953      0t0  UDP *:277
+> VirtualBo 18978 fmoenne-  731u  IPv4 0x60ea5089c6d3621b      0t0  UDP *:278
+> VirtualBo 18978 fmoenne-  732u  IPv4 0x60ea5089c6d3369b      0t0  UDP *:279
+> VirtualBo 18978 fmoenne-  733u  IPv4 0x60ea5089c6d364d3      0t0  UDP *:28
+> VirtualBo 18978 fmoenne-  734u  IPv4 0x60ea5089c6d333e3      0t0  UDP *:http-mgmt
+> VirtualBo 18978 fmoenne-  735u  IPv4 0x60ea5089c6d3d8b3      0t0  TCP *:cmip-man (LISTEN)
+> VirtualBo 18978 fmoenne-  736u  IPv4 0x60ea5089c6d3312b      0t0  UDP *:personal-link
+> VirtualBo 18978 fmoenne-  737u  IPv4 0x60ea5089c6d32e73      0t0  UDP *:cableport-ax
+> VirtualBo 18978 fmoenne-  738u  IPv4 0x60ea5089c6d32bbb      0t0  UDP *:rescap
+> VirtualBo 18978 fmoenne-  739u  IPv4 0x60ea5089c6d3678b      0t0  UDP *:corerjd
+> VirtualBo 18978 fmoenne-  740u  IPv4 0x60ea5089c6d32903      0t0  UDP *:285
+> VirtualBo 18978 fmoenne-  741u  IPv4 0x60ea5089c6d36a43      0t0  UDP *:fxp-1
+> VirtualBo 18978 fmoenne-  742u  IPv4 0x60ea5089c6d3264b      0t0  UDP *:k-block
+> VirtualBo 18978 fmoenne-  743u  IPv4 0x60ea5089c6d32393      0t0  UDP *:288
+> VirtualBo 18978 fmoenne-  744u  IPv4 0x60ea5089c6d320db      0t0  UDP *:289
+> VirtualBo 18978 fmoenne-  745u  IPv4 0x60ea5089c6d36cfb      0t0  UDP *:msg-icp
+> VirtualBo 18978 fmoenne-  746u  IPv4 0x60ea5089c6d3f533      0t0  TCP *:cmip-agent (LISTEN)
+> VirtualBo 18978 fmoenne-  747u  IPv4 0x60ea5089c6d36fb3      0t0  UDP *:290
+> VirtualBo 18978 fmoenne-  748u  IPv4 0x60ea5089c6d3726b      0t0  UDP *:291
+> VirtualBo 18978 fmoenne-  749u  IPv4 0x60ea5089c6d31e23      0t0  UDP *:292
+> VirtualBo 18978 fmoenne-  750u  IPv4 0x60ea5089c6d31b6b      0t0  UDP *:293
+> VirtualBo 18978 fmoenne-  751u  IPv4 0x60ea5089c6d318b3      0t0  UDP *:294
+> VirtualBo 18978 fmoenne-  752u  IPv4 0x60ea5089c6d37523      0t0  UDP *:295
+> VirtualBo 18978 fmoenne-  753u  IPv4 0x60ea5089c6d59433      0t0  UDP *:296
+> VirtualBo 18978 fmoenne-  754u  IPv4 0x60ea5089c6d5917b      0t0  UDP *:297
+> VirtualBo 18978 fmoenne-  755u  IPv4 0x60ea5089c6d58ec3      0t0  UDP *:298
+> VirtualBo 18978 fmoenne-  756u  IPv4 0x60ea5089c6d58c0b      0t0  UDP *:299
+> VirtualBo 18978 fmoenne-  757u  IPv4 0x60ea5089c6d3cf33      0t0  TCP *:xns-courier (LISTEN)
+> VirtualBo 18978 fmoenne-  758u  IPv4 0x60ea5089c6d58953      0t0  UDP *:30
+> VirtualBo 18978 fmoenne-  759u  IPv4 0x60ea5089c6d596eb      0t0  UDP *:300
+> VirtualBo 18978 fmoenne-  760u  IPv4 0x60ea5089c6d5869b      0t0  UDP *:301
+> VirtualBo 18978 fmoenne-  761u  IPv4 0x60ea5089c6d583e3      0t0  UDP *:302
+> VirtualBo 18978 fmoenne-  762u  IPv4 0x60ea5089c6d5812b      0t0  UDP *:303
+> VirtualBo 18978 fmoenne-  763u  IPv4 0x60ea5089c6d599a3      0t0  UDP *:304
+> VirtualBo 18978 fmoenne-  764u  IPv4 0x60ea5089c6d59c5b      0t0  UDP *:305
+> VirtualBo 18978 fmoenne-  765u  IPv4 0x60ea5089c6d57e73      0t0  UDP *:306
+> VirtualBo 18978 fmoenne-  766u  IPv4 0x60ea5089c6d59f13      0t0  UDP *:307
+> VirtualBo 18978 fmoenne-  767u  IPv4 0x60ea5089c6d5a1cb      0t0  UDP *:novastorbakcup
+> VirtualBo 18978 fmoenne-  768u  IPv4 0x60ea5089c6d42bb3      0t0  TCP *:s-net (LISTEN)
+> VirtualBo 18978 fmoenne-  769u  IPv4 0x60ea5089c6d5a483      0t0  UDP *:entrusttime
+> VirtualBo 18978 fmoenne-  770u  IPv4 0x60ea5089c6d57bbb      0t0  UDP *:msg-auth
+> VirtualBo 18978 fmoenne-  771u  IPv4 0x60ea5089c6d57903      0t0  UDP *:bhmds
+> VirtualBo 18978 fmoenne-  772u  IPv4 0x60ea5089c6d5a73b      0t0  UDP *:asip-webadmin
+> VirtualBo 18978 fmoenne-  773u  IPv4 0x60ea5089c6d5a9f3      0t0  UDP *:vslmp
+> VirtualBo 18978 fmoenne-  774u  IPv4 0x60ea5089c6d5acab      0t0  UDP *:magenta-logic
+> VirtualBo 18978 fmoenne-  775u  IPv4 0x60ea5089c6d5af63      0t0  UDP *:opalis-robot
+> VirtualBo 18978 fmoenne-  776u  IPv4 0x60ea5089c6d5b21b      0t0  UDP *:dpsi
+> VirtualBo 18978 fmoenne-  777u  IPv4 0x60ea5089c6d5764b      0t0  UDP *:decauth
+> VirtualBo 18978 fmoenne-  778u  IPv4 0x60ea5089c6d5b4d3      0t0  UDP *:zannet
+> VirtualBo 18978 fmoenne-  779u  IPv4 0x60ea5089c6d42233      0t0  TCP *:namp (LISTEN)
+> VirtualBo 18978 fmoenne-  780u  IPv4 0x60ea5089c6d57393      0t0  UDP *:pkix-timestamp
+> VirtualBo 18978 fmoenne-  781u  IPv4 0x60ea5089c6d5b78b      0t0  UDP *:ptp-event
+> VirtualBo 18978 fmoenne-  782u  IPv4 0x60ea5089c6d5ba43      0t0  UDP *:32
+> VirtualBo 18978 fmoenne-  783u  IPv4 0x60ea5089c6d5bcfb      0t0  UDP *:ptp-general
+> VirtualBo 18978 fmoenne-  784u  IPv4 0x60ea5089c6d5bfb3      0t0  UDP *:pip
+> VirtualBo 18978 fmoenne-  785u  IPv4 0x60ea5089c6d570db      0t0  UDP *:rtsps
+> VirtualBo 18978 fmoenne-  786u  IPv4 0x60ea5089c6d5c26b      0t0  UDP *:323
+> VirtualBo 18978 fmoenne-  787u  IPv4 0x60ea5089c6d5c523      0t0  UDP *:324
+> VirtualBo 18978 fmoenne-  788u  IPv4 0x60ea5089c6d56e23      0t0  UDP *:325
+> VirtualBo 18978 fmoenne-  789u  IPv4 0x60ea5089c6d56b6b      0t0  UDP *:326
+> VirtualBo 18978 fmoenne-  790u  IPv4 0x60ea5089c6d43533      0t0  TCP *:rsvd (LISTEN)
+> VirtualBo 18978 fmoenne-  791u  IPv4 0x60ea5089c6d568b3      0t0  UDP *:327
+> VirtualBo 18978 fmoenne-  792u  IPv4 0x60ea5089c6d69c5b      0t0  UDP *:328
+> VirtualBo 18978 fmoenne-  793u  IPv4 0x60ea5089c6d699a3      0t0  UDP *:329
+> VirtualBo 18978 fmoenne-  794u  IPv4 0x60ea5089c6d696eb      0t0  UDP *:dsp
+> VirtualBo 18978 fmoenne-  795u  IPv4 0x60ea5089c6d69433      0t0  UDP *:330
+> VirtualBo 18978 fmoenne-  796u  IPv4 0x60ea5089c6d69f13      0t0  UDP *:331
+> VirtualBo 18978 fmoenne-  797u  IPv4 0x60ea5089c6d6917b      0t0  UDP *:332
+> VirtualBo 18978 fmoenne-  798u  IPv4 0x60ea5089c6d6a1cb      0t0  UDP *:texar
+> VirtualBo 18978 fmoenne-  799u  IPv4 0x60ea5089c6d6a483      0t0  UDP *:334
+> VirtualBo 18978 fmoenne-  800u  IPv4 0x60ea5089c6d6a73b      0t0  UDP *:335
+> VirtualBo 18978 fmoenne-  801u  IPv4 0x60ea5089c6d418b3      0t0  TCP *:send (LISTEN)
+> VirtualBo 18978 fmoenne-  802u  IPv4 0x60ea5089c6d6a9f3      0t0  UDP *:336
+> VirtualBo 18978 fmoenne-  803u  IPv4 0x60ea5089c6d6acab      0t0  UDP *:337
+> VirtualBo 18978 fmoenne-  804u  IPv4 0x60ea5089c6d6af63      0t0  UDP *:338
+> VirtualBo 18978 fmoenne-  805u  IPv4 0x60ea5089c6d6b21b      0t0  UDP *:339
+> VirtualBo 18978 fmoenne-  806u  IPv4 0x60ea5089c6d68ec3      0t0  UDP *:34
+> VirtualBo 18978 fmoenne-  807u  IPv4 0x60ea5089c6d68c0b      0t0  UDP *:340
+> VirtualBo 18978 fmoenne-  808u  IPv4 0x60ea5089c6d68953      0t0  UDP *:341
+> VirtualBo 18978 fmoenne-  809u  IPv4 0x60ea5089c6d6869b      0t0  UDP *:342
+> VirtualBo 18978 fmoenne-  810u  IPv4 0x60ea5089c6d683e3      0t0  UDP *:343
+> VirtualBo 18978 fmoenne-  811u  IPv4 0x60ea5089c6d6812b      0t0  UDP *:pdap
+> VirtualBo 18978 fmoenne-  812u  IPv4 0x60ea5089c6d40f33      0t0  TCP *:qotd (LISTEN)
+> VirtualBo 18978 fmoenne-  813u  IPv4 0x60ea5089c6d67e73      0t0  UDP *:pawserv
+> VirtualBo 18978 fmoenne-  814u  IPv4 0x60ea5089c6d67bbb      0t0  UDP *:zserv
+> VirtualBo 18978 fmoenne-  815u  IPv4 0x60ea5089c6d6b4d3      0t0  UDP *:fatserv
+> VirtualBo 18978 fmoenne-  816u  IPv4 0x60ea5089c6d6b78b      0t0  UDP *:csi-sgwp
+> VirtualBo 18978 fmoenne-  817u  IPv4 0x60ea5089c6d67903      0t0  UDP *:mftp
+> VirtualBo 18978 fmoenne-  818u  IPv4 0x60ea5089c6d6ba43      0t0  UDP *:35
+> VirtualBo 18978 fmoenne-  819u  IPv4 0x60ea5089c6d6bcfb      0t0  UDP *:matip-type-a
+> VirtualBo 18978 fmoenne-  820u  IPv4 0x60ea5089c6d6764b      0t0  UDP *:matip-type-b
+> VirtualBo 18978 fmoenne-  821u  IPv4 0x60ea5089c6d67393      0t0  UDP *:dtag-ste-sb
+> VirtualBo 18978 fmoenne-  822u  IPv4 0x60ea5089c6d670db      0t0  UDP *:ndsauth
+> VirtualBo 18978 fmoenne-  823u  IPv4 0x60ea5089c6d728b3      0t0  TCP *:print-srv (LISTEN)
+> VirtualBo 18978 fmoenne-  824u  IPv4 0x60ea5089c6d66e23      0t0  UDP *:bh611
+> VirtualBo 18978 fmoenne-  825u  IPv4 0x60ea5089c6d66b6b      0t0  UDP *:datex-asn
+> VirtualBo 18978 fmoenne-  826u  IPv4 0x60ea5089c6d668b3      0t0  UDP *:cloanto-net-1
+> VirtualBo 18978 fmoenne-  827u  IPv4 0x60ea5089c6d6bfb3      0t0  UDP *:bhevent
+> VirtualBo 18978 fmoenne-  828u  IPv4 0x60ea5089c6d6c26b      0t0  UDP *:shrinkwrap
+> VirtualBo 18978 fmoenne-  829u  IPv4 0x60ea5089c6d6c523      0t0  UDP *:nsrmp
+> VirtualBo 18978 fmoenne-  830u  IPv4 0x60ea5089c6d7cc5b      0t0  UDP *:36
+> VirtualBo 18978 fmoenne-  831u  IPv4 0x60ea5089c6d7c9a3      0t0  UDP *:scoi2odialog
+> VirtualBo 18978 fmoenne-  832u  IPv4 0x60ea5089c6d7cf13      0t0  UDP *:semantix
+> VirtualBo 18978 fmoenne-  833u  IPv4 0x60ea5089c6d7c6eb      0t0  UDP *:srssend
+> VirtualBo 18978 fmoenne-  834u  IPv4 0x60ea5089c6d73233      0t0  TCP *:3com-tsmux (LISTEN)
+> VirtualBo 18978 fmoenne-  835u  IPv4 0x60ea5089c6d73bb3      0t0  TCP *:multiplex (LISTEN)
+> VirtualBo 18978 fmoenne-  836u  IPv4 0x60ea5089c6d7c433      0t0  UDP *:rsvp_tunnel
+> VirtualBo 18978 fmoenne-  837u  IPv4 0x60ea5089c6d7c17b      0t0  UDP *:aurora-cmgr
+> VirtualBo 18978 fmoenne-  838u  IPv4 0x60ea5089c6d7bec3      0t0  UDP *:dtk
+> VirtualBo 18978 fmoenne-  839u  IPv4 0x60ea5089c6d7d1cb      0t0  UDP *:odmr
+> VirtualBo 18978 fmoenne-  840u  IPv4 0x60ea5089c6d7d483      0t0  UDP *:mortgageware
+> VirtualBo 18978 fmoenne-  841u  IPv4 0x60ea5089c6d7bc0b      0t0  UDP *:qbikgdp
+> VirtualBo 18978 fmoenne-  842u  IPv4 0x60ea5089c6d7b953      0t0  UDP *:rpc2portmap
+> VirtualBo 18978 fmoenne-  843u  IPv4 0x60ea5089c6d7d73b      0t0  UDP *:time
+> VirtualBo 18978 fmoenne-  844u  IPv4 0x60ea5089c6d7d9f3      0t0  UDP *:codaauth2
+> VirtualBo 18978 fmoenne-  845u  IPv4 0x60ea5089c6d7b69b      0t0  UDP *:clearcase
+> VirtualBo 18978 fmoenne-  846u  IPv4 0x60ea5089c6d71f33      0t0  TCP *:cl/1 (LISTEN)
+> VirtualBo 18978 fmoenne-  847u  IPv4 0x60ea5089c6d7dcab      0t0  UDP *:ulistproc
+> VirtualBo 18978 fmoenne-  848u  IPv4 0x60ea5089c6d7b3e3      0t0  UDP *:legent-1
+> VirtualBo 18978 fmoenne-  849u  IPv4 0x60ea5089c6d7b12b      0t0  UDP *:legent-2
+> VirtualBo 18978 fmoenne-  850u  IPv4 0x60ea5089c6d7df63      0t0  UDP *:hassle
+> VirtualBo 18978 fmoenne-  851u  IPv4 0x60ea5089c6d7ae73      0t0  UDP *:nip
+> VirtualBo 18978 fmoenne-  852u  IPv4 0x60ea5089c6d7e21b      0t0  UDP *:tnETOS
+> VirtualBo 18978 fmoenne-  853u  IPv4 0x60ea5089c6d7e4d3      0t0  UDP *:dsETOS
+> VirtualBo 18978 fmoenne-  854u  IPv4 0x60ea5089c6d7e78b      0t0  UDP *:is99c
+> VirtualBo 18978 fmoenne-  855u  IPv4 0x60ea5089c6d7ea43      0t0  UDP *:rap
+> VirtualBo 18978 fmoenne-  856u  IPv4 0x60ea5089c6d7ecfb      0t0  UDP *:is99s
+> VirtualBo 18978 fmoenne-  857u  IPv4 0x60ea5089c6d74533      0t0  TCP *:xyplex-mux (LISTEN)
+> VirtualBo 18978 fmoenne-  858u  IPv4 0x60ea5089c6d7abbb      0t0  UDP *:hp-collector
+> VirtualBo 18978 fmoenne-  859u  IPv4 0x60ea5089c6d7a903      0t0  UDP *:hp-managed-node
+> VirtualBo 18978 fmoenne-  860u  IPv4 0x60ea5089c6d7efb3      0t0  UDP *:hp-alarm-mgr
+> VirtualBo 18978 fmoenne-  861u  IPv4 0x60ea5089c6d7f26b      0t0  UDP *:arns
+> VirtualBo 18978 fmoenne-  862u  IPv4 0x60ea5089c6d7a64b      0t0  UDP *:ibm-app
+> VirtualBo 18978 fmoenne-  863u  IPv4 0x60ea5089c6d7f523      0t0  UDP *:asa
+> VirtualBo 18978 fmoenne-  864u  IPv4 0x60ea5089c6d7a393      0t0  UDP *:aurp
+> VirtualBo 18978 fmoenne-  865u  IPv4 0x60ea5089c6d7a0db      0t0  UDP *:unidata-ldm
+> VirtualBo 18978 fmoenne-  866u  IPv4 0x60ea5089c6d79e23      0t0  UDP *:ldap
+> VirtualBo 18978 fmoenne-  867u  IPv4 0x60ea5089c6d79b6b      0t0  UDP *:rlp
+> VirtualBo 18978 fmoenne-  868u  IPv4 0x60ea5089c6d86bb3      0t0  TCP *:mailq (LISTEN)
+> VirtualBo 18978 fmoenne-  869u  IPv4 0x60ea5089c6d798b3      0t0  UDP *:uis
+> VirtualBo 18978 fmoenne-  870u  IPv4 0x60ea5089c6d8a9a3      0t0  UDP *:synotics-relay
+> VirtualBo 18978 fmoenne-  871u  IPv4 0x60ea5089c6d8ac5b      0t0  UDP *:synotics-broker
+> VirtualBo 18978 fmoenne-  872u  IPv4 0x60ea5089c6d8a6eb      0t0  UDP *:meta5
+> VirtualBo 18978 fmoenne-  873u  IPv4 0x60ea5089c6d8a433      0t0  UDP *:embl-ndt
+> VirtualBo 18978 fmoenne-  874u  IPv4 0x60ea5089c6d8a17b      0t0  UDP *:netcp
+> VirtualBo 18978 fmoenne-  875u  IPv4 0x60ea5089c6d89ec3      0t0  UDP *:netware-ip
+> VirtualBo 18978 fmoenne-  876u  IPv4 0x60ea5089c6d8af13      0t0  UDP *:mptn
+> VirtualBo 18978 fmoenne-  877u  IPv4 0x60ea5089c6d89c0b      0t0  UDP *:kryptolan
+> VirtualBo 18978 fmoenne-  878u  IPv4 0x60ea5089c6d8b1cb      0t0  UDP *:iso-tsap-c2
+> VirtualBo 18978 fmoenne-  879u  IPv4 0x60ea5089c6d86233      0t0  TCP *:vmnet (LISTEN)
+> VirtualBo 18978 fmoenne-  880u  IPv4 0x60ea5089c6d89953      0t0  UDP *:40
+> VirtualBo 18978 fmoenne-  881u  IPv4 0x60ea5089c6d8b483      0t0  UDP *:work-sol
+> VirtualBo 18978 fmoenne-  882u  IPv4 0x60ea5089c6d8969b      0t0  UDP *:ups
+> VirtualBo 18978 fmoenne-  883u  IPv4 0x60ea5089c6d893e3      0t0  UDP *:genie
+> VirtualBo 18978 fmoenne-  884u  IPv4 0x60ea5089c6d8912b      0t0  UDP *:decap
+> VirtualBo 18978 fmoenne-  885u  IPv4 0x60ea5089c6d8b73b      0t0  UDP *:nced
+> VirtualBo 18978 fmoenne-  886u  IPv4 0x60ea5089c6d8b9f3      0t0  UDP *:ncld
+> VirtualBo 18978 fmoenne-  887u  IPv4 0x60ea5089c6d8bcab      0t0  UDP *:imsp
+> VirtualBo 18978 fmoenne-  888u  IPv4 0x60ea5089c6d88e73      0t0  UDP *:timbuktu
+> VirtualBo 18978 fmoenne-  889u  IPv4 0x60ea5089c6d88bbb      0t0  UDP *:prm-sm
+> VirtualBo 18978 fmoenne-  890u  IPv4 0x60ea5089c6d858b3      0t0  TCP *:genrad-mux (LISTEN)
+> VirtualBo 18978 fmoenne-  891u  IPv4 0x60ea5089c6d8bf63      0t0  UDP *:prm-nm
+> VirtualBo 18978 fmoenne-  892u  IPv4 0x60ea5089c6d88903      0t0  UDP *:graphics
+> VirtualBo 18978 fmoenne-  893u  IPv4 0x60ea5089c6d8c21b      0t0  UDP *:decladebug
+> VirtualBo 18978 fmoenne-  894u  IPv4 0x60ea5089c6d8864b      0t0  UDP *:rmt
+> VirtualBo 18978 fmoenne-  895u  IPv4 0x60ea5089c6d88393      0t0  UDP *:synoptics-trap
+> VirtualBo 18978 fmoenne-  896u  IPv4 0x60ea5089c6d8c4d3      0t0  UDP *:smsp
+> VirtualBo 18978 fmoenne-  897u  IPv4 0x60ea5089c6d880db      0t0  UDP *:infoseek
+> VirtualBo 18978 fmoenne-  898u  IPv4 0x60ea5089c6d87e23      0t0  UDP *:bnet
+> VirtualBo 18978 fmoenne-  899u  IPv4 0x60ea5089c6d8c78b      0t0  UDP *:silverplatter
+> VirtualBo 18978 fmoenne-  900u  IPv4 0x60ea5089c6d87b6b      0t0  UDP *:onmux
+> VirtualBo 18978 fmoenne-  901u  IPv4 0x60ea5089c6d84f33      0t0  TCP *:xdmcp (LISTEN)
+> VirtualBo 18978 fmoenne-  902u  IPv4 0x60ea5089c6d8ca43      0t0  UDP *:hyper-g
+> VirtualBo 18978 fmoenne-  903u  IPv4 0x60ea5089c6d8ccfb      0t0  UDP *:ariel1
+> VirtualBo 18978 fmoenne-  904u  IPv4 0x60ea5089c6d8cfb3      0t0  UDP *:name
+> VirtualBo 18978 fmoenne-  905u  IPv4 0x60ea5089c6d8d26b      0t0  UDP *:smpte
+> VirtualBo 18978 fmoenne-  906u  IPv4 0x60ea5089c6d8d523      0t0  UDP *:ariel2
+> VirtualBo 18978 fmoenne-  907u  IPv4 0x60ea5089c6d878b3      0t0  UDP *:ariel3
+> VirtualBo 18978 fmoenne-  908u  IPv4 0x60ea5089c6d9ac5b      0t0  UDP *:opc-job-start
+> VirtualBo 18978 fmoenne-  909u  IPv4 0x60ea5089c6d9a9a3      0t0  UDP *:opc-job-track
+> VirtualBo 18978 fmoenne-  910u  IPv4 0x60ea5089c6d9af13      0t0  UDP *:icad-el
+> VirtualBo 18978 fmoenne-  911u  IPv4 0x60ea5089c6d9a6eb      0t0  UDP *:smartsdp
+> VirtualBo 18978 fmoenne-  912u  IPv4 0x60ea5089c6d87533      0t0  TCP *:nextstep (LISTEN)
+> VirtualBo 18978 fmoenne-  913u  IPv4 0x60ea5089c6d9a433      0t0  UDP *:svrloc
+> VirtualBo 18978 fmoenne-  914u  IPv4 0x60ea5089c6d9a17b      0t0  UDP *:ocs_cmu
+> VirtualBo 18978 fmoenne-  915u  IPv4 0x60ea5089c6d99ec3      0t0  UDP *:ocs_amu
+> VirtualBo 18978 fmoenne-  916u  IPv4 0x60ea5089c6d9b1cb      0t0  UDP *:nicname
+> VirtualBo 18978 fmoenne-  917u  IPv4 0x60ea5089c6d99c0b      0t0  UDP *:utmpsd
+> VirtualBo 18978 fmoenne-  918u  IPv4 0x60ea5089c6d9b483      0t0  UDP *:utmpcd
+> VirtualBo 18978 fmoenne-  919u  IPv4 0x60ea5089c6d99953      0t0  UDP *:iasd
+> VirtualBo 18978 fmoenne-  920u  IPv4 0x60ea5089c6d9969b      0t0  UDP *:nnsp
+> VirtualBo 18978 fmoenne-  921u  IPv4 0x60ea5089c6d9b73b      0t0  UDP *:mobileip-agent
+> VirtualBo 18978 fmoenne-  922u  IPv4 0x60ea5089c6d9b9f3      0t0  UDP *:mobilip-mn
+> VirtualBo 18978 fmoenne-  923u  IPv4 0x60ea5089c6db3bb3      0t0  TCP *:bgp (LISTEN)
+> VirtualBo 18978 fmoenne-  924u  IPv4 0x60ea5089c6d9bcab      0t0  UDP *:dna-cml
+> VirtualBo 18978 fmoenne-  925u  IPv4 0x60ea5089c6d993e3      0t0  UDP *:comscm
+> VirtualBo 18978 fmoenne-  926u  IPv4 0x60ea5089c6d9912b      0t0  UDP *:dsfgw
+> VirtualBo 18978 fmoenne-  927u  IPv4 0x60ea5089c6d9bf63      0t0  UDP *:dasp
+> VirtualBo 18978 fmoenne-  928u  IPv4 0x60ea5089c6d98e73      0t0  UDP *:mpm-flags
+> VirtualBo 18978 fmoenne-  929u  IPv4 0x60ea5089c6d98bbb      0t0  UDP *:sgcp
+> VirtualBo 18978 fmoenne-  930u  IPv4 0x60ea5089c6d9c21b      0t0  UDP *:decvms-sysmgt
+> VirtualBo 18978 fmoenne-  931u  IPv4 0x60ea5089c6d98903      0t0  UDP *:cvc_hostd
+> VirtualBo 18978 fmoenne-  932u  IPv4 0x60ea5089c6d9864b      0t0  UDP *:https
+> VirtualBo 18978 fmoenne-  933u  IPv4 0x60ea5089c6d9c4d3      0t0  UDP *:snpp
+> VirtualBo 18978 fmoenne-  934u  IPv4 0x60ea5089c6db3233      0t0  TCP *:msp (LISTEN)
+> VirtualBo 18978 fmoenne-  935u  IPv4 0x60ea5089c6d98393      0t0  UDP *:microsoft-ds
+> VirtualBo 18978 fmoenne-  936u  IPv4 0x60ea5089c6d980db      0t0  UDP *:ddm-rdb
+> VirtualBo 18978 fmoenne-  937u  IPv4 0x60ea5089c6d9c78b      0t0  UDP *:ddm-dfm
+> VirtualBo 18978 fmoenne-  938u  IPv4 0x60ea5089c6d9ca43      0t0  UDP *:ddm-ssl
+> VirtualBo 18978 fmoenne-  939u  IPv4 0x60ea5089c6d97e23      0t0  UDP *:as-servermap
+> VirtualBo 18978 fmoenne-  940u  IPv4 0x60ea5089c6d9ccfb      0t0  UDP *:mpm
+> VirtualBo 18978 fmoenne-  941u  IPv4 0x60ea5089c6d9cfb3      0t0  UDP *:tserver
+> VirtualBo 18978 fmoenne-  942u  IPv4 0x60ea5089c6d9d26b      0t0  UDP *:sfs-smp-net
+> VirtualBo 18978 fmoenne-  943u  IPv4 0x60ea5089c6d97b6b      0t0  UDP *:sfs-config
+> VirtualBo 18978 fmoenne-  944u  IPv4 0x60ea5089c6d978b3      0t0  UDP *:creativeserver
+> VirtualBo 18978 fmoenne-  945u  IPv4 0x60ea5089c6db28b3      0t0  TCP *:rtelnet (LISTEN)
+> VirtualBo 18978 fmoenne-  946u  IPv4 0x60ea5089c6db1f33      0t0  TCP *:ris (LISTEN)
+> VirtualBo 18978 fmoenne-  947u  IPv4 0x60ea5089c6d9d523      0t0  UDP *:contentserver
+> VirtualBo 18978 fmoenne-  948u  IPv4 0x60ea5089c6de01cb      0t0  UDP *:creativepartnr
+> VirtualBo 18978 fmoenne-  949u  IPv4 0x60ea5089c6ddff13      0t0  UDP *:macon-udp
+> VirtualBo 18978 fmoenne-  950u  IPv4 0x60ea5089c6de0483      0t0  UDP *:scohelp
+> VirtualBo 18978 fmoenne-  951u  IPv4 0x60ea5089c6de073b      0t0  UDP *:appleqtc
+> VirtualBo 18978 fmoenne-  952u  IPv4 0x60ea5089c6ddfc5b      0t0  UDP *:ampr-rcmd
+> VirtualBo 18978 fmoenne-  953u  IPv4 0x60ea5089c6de09f3      0t0  UDP *:mpm-snd
+> VirtualBo 18978 fmoenne-  954u  IPv4 0x60ea5089c6ddf9a3      0t0  UDP *:skronk
+> VirtualBo 18978 fmoenne-  955u  IPv4 0x60ea5089c6de0cab      0t0  UDP *:datasurfsrv
+> VirtualBo 18978 fmoenne-  956u  IPv4 0x60ea5089c6ddf6eb      0t0  UDP *:datasurfsrvsec
+> VirtualBo 18978 fmoenne-  957u  IPv4 0x60ea5089c6db4533      0t0  TCP *:unify (LISTEN)
+> VirtualBo 18978 fmoenne-  958u  IPv4 0x60ea5089c6ddf433      0t0  UDP *:alpes
+> VirtualBo 18978 fmoenne-  959u  IPv4 0x60ea5089c6ddf17b      0t0  UDP *:kpasswd
+> VirtualBo 18978 fmoenne-  960u  IPv4 0x60ea5089c6ddeec3      0t0  UDP *:igmpv3lite
+> VirtualBo 18978 fmoenne-  961u  IPv4 0x60ea5089c6ddec0b      0t0  UDP *:digital-vrc
+> VirtualBo 18978 fmoenne-  962u  IPv4 0x60ea5089c6de0f63      0t0  UDP *:mylex-mapd
+> VirtualBo 18978 fmoenne-  963u  IPv4 0x60ea5089c6dde953      0t0  UDP *:photuris
+> VirtualBo 18978 fmoenne-  964u  IPv4 0x60ea5089c6dde69b      0t0  UDP *:rcp
+> VirtualBo 18978 fmoenne-  965u  IPv4 0x60ea5089c6dde3e3      0t0  UDP *:ni-ftp
+> VirtualBo 18978 fmoenne-  966u  IPv4 0x60ea5089c6de121b      0t0  UDP *:scx-proxy
+> VirtualBo 18978 fmoenne-  967u  IPv4 0x60ea5089c6dde12b      0t0  UDP *:mondex
+> VirtualBo 18978 fmoenne-  968u  IPv4 0x60ea5089c6db78b3      0t0  TCP *:audit (LISTEN)
+> VirtualBo 18978 fmoenne-  969u  IPv4 0x60ea5089c6de14d3      0t0  UDP *:ljk-login
+> VirtualBo 18978 fmoenne-  970u  IPv4 0x60ea5089c6ddde73      0t0  UDP *:hybrid-pop
+> VirtualBo 18978 fmoenne-  971u  IPv4 0x60ea5089c6de178b      0t0  UDP *:tn-tl-w2
+> VirtualBo 18978 fmoenne-  972u  IPv4 0x60ea5089c6dddbbb      0t0  UDP *:tcpnethaspsrv
+> VirtualBo 18978 fmoenne-  973u  IPv4 0x60ea5089c6ddd903      0t0  UDP *:tn-tl-fd1
+> VirtualBo 18978 fmoenne-  974u  IPv4 0x60ea5089c6ddd64b      0t0  UDP *:ss7ns
+> VirtualBo 18978 fmoenne-  975u  IPv4 0x60ea5089c6ddd393      0t0  UDP *:spsc
+> VirtualBo 18978 fmoenne-  976u  IPv4 0x60ea5089c6ddd0db      0t0  UDP *:iafserver
+> VirtualBo 18978 fmoenne-  977u  IPv4 0x60ea5089c6de1a43      0t0  UDP *:auditd
+> VirtualBo 18978 fmoenne-  978u  IPv4 0x60ea5089c6de1cfb      0t0  UDP *:iafdbase
+> VirtualBo 18978 fmoenne-  979u  IPv4 0x60ea5089c6db8233      0t0  TCP *:ocbinder (LISTEN)
+> VirtualBo 18978 fmoenne-  980u  IPv4 0x60ea5089c6ddce23      0t0  UDP *:ph
+> VirtualBo 18978 fmoenne-  981u  IPv4 0x60ea5089c6de1fb3      0t0  UDP *:bgs-nsi
+> VirtualBo 18978 fmoenne-  982u  IPv4 0x60ea5089c6ddcb6b      0t0  UDP *:ulpnet
+> VirtualBo 18978 fmoenne-  983u  IPv4 0x60ea5089c6ddc8b3      0t0  UDP *:integra-sme
+> VirtualBo 18978 fmoenne-  984u  IPv4 0x60ea5089c6de226b      0t0  UDP *:powerburst
+> VirtualBo 18978 fmoenne-  985u  IPv4 0x60ea5089c6de2523      0t0  UDP *:avian
+> VirtualBo 18978 fmoenne-  986u  IPv4 0x60ea5089c6deaf13      0t0  UDP *:saft
+> VirtualBo 18978 fmoenne-  987u  IPv4 0x60ea5089c6deac5b      0t0  UDP *:gss-http
+> VirtualBo 18978 fmoenne-  988u  IPv4 0x60ea5089c6dea9a3      0t0  UDP *:nest-protocol
+> VirtualBo 18978 fmoenne-  989u  IPv4 0x60ea5089c6deb1cb      0t0  UDP *:tacacs
+> VirtualBo 18978 fmoenne-  990u  IPv4 0x60ea5089c6db8bb3      0t0  TCP *:ocserver (LISTEN)
+> VirtualBo 18978 fmoenne-  991u  IPv4 0x60ea5089c6dea6eb      0t0  UDP *:micom-pfs
+> VirtualBo 18978 fmoenne-  992u  IPv4 0x60ea5089c6dea433      0t0  UDP *:go-login
+> VirtualBo 18978 fmoenne-  993u  IPv4 0x60ea5089c6deb483      0t0  UDP *:ticf-1
+> VirtualBo 18978 fmoenne-  994u  IPv4 0x60ea5089c6deb73b      0t0  UDP *:ticf-2
+> VirtualBo 18978 fmoenne-  995u  IPv4 0x60ea5089c6dea17b      0t0  UDP *:pov-ray
+> VirtualBo 18978 fmoenne-  996u  IPv4 0x60ea5089c6deb9f3      0t0  UDP *:intecourier
+> VirtualBo 18978 fmoenne-  997u  IPv4 0x60ea5089c6debcab      0t0  UDP *:pim-rp-disc
+> VirtualBo 18978 fmoenne-  998u  IPv4 0x60ea5089c6de9ec3      0t0  UDP *:dantz
+> VirtualBo 18978 fmoenne-  999u  IPv4 0x60ea5089c6de9c0b      0t0  UDP *:siam
+> VirtualBo 18978 fmoenne- 1000u  IPv4 0x60ea5089c6de9953      0t0  UDP *:iso-ill
+> VirtualBo 18978 fmoenne- 1001u  IPv4 0x60ea5089c6db9533      0t0  TCP *:remote-kis (LISTEN)
+> VirtualBo 18978 fmoenne- 1002u  IPv4 0x60ea5089c6de969b      0t0  UDP *:re-mail-ck
+> VirtualBo 18978 fmoenne- 1003u  IPv4 0x60ea5089c6de93e3      0t0  UDP *:isakmp
+> VirtualBo 18978 fmoenne- 1004u  IPv4 0x60ea5089c6debf63      0t0  UDP *:stmf
+> VirtualBo 18978 fmoenne- 1005u  IPv4 0x60ea5089c6dec21b      0t0  UDP *:asa-appl-proto
+> VirtualBo 18978 fmoenne- 1006u  IPv4 0x60ea5089c6de912b      0t0  UDP *:intrinsa
+> VirtualBo 18978 fmoenne- 1007u  IPv4 0x60ea5089c6de8e73      0t0  UDP *:citadel
+> VirtualBo 18978 fmoenne- 1008u  IPv4 0x60ea5089c6de8bbb      0t0  UDP *:mailbox-lm
+> VirtualBo 18978 fmoenne- 1009u  IPv4 0x60ea5089c6dec4d3      0t0  UDP *:ohimsrv
+> VirtualBo 18978 fmoenne- 1010u  IPv4 0x60ea5089c6de8903      0t0  UDP *:crs
+> VirtualBo 18978 fmoenne- 1011u  IPv4 0x60ea5089c6dec78b      0t0  UDP *:xvttp
+> VirtualBo 18978 fmoenne- 1012u  IPv4 0x60ea5089c6db6f33      0t0  TCP *:kis (LISTEN)
+> VirtualBo 18978 fmoenne- 1013u  IPv4 0x60ea5089c6deca43      0t0  UDP *:snare
+> VirtualBo 18978 fmoenne- 1014u  IPv4 0x60ea5089c6de864b      0t0  UDP *:la-maint
+> VirtualBo 18978 fmoenne- 1015u  IPv4 0x60ea5089c6de8393      0t0  UDP *:fcp
+> VirtualBo 18978 fmoenne- 1016u  IPv4 0x60ea5089c6de80db      0t0  UDP *:passgo
+> VirtualBo 18978 fmoenne- 1017u  IPv4 0x60ea5089c6deccfb      0t0  UDP *:comsat
+> VirtualBo 18978 fmoenne- 1018u  IPv4 0x60ea5089c6decfb3      0t0  UDP *:who
+> VirtualBo 18978 fmoenne- 1019u  IPv4 0x60ea5089c6de7e23      0t0  UDP *:syslog
+> VirtualBo 18978 fmoenne- 1020u  IPv4 0x60ea5089c6de7b6b      0t0  UDP *:printer
+> VirtualBo 18978 fmoenne- 1021u  IPv4 0x60ea5089c6ded26b      0t0  UDP *:videotex
+> VirtualBo 18978 fmoenne- 1022u  IPv4 0x60ea5089c6ded523      0t0  UDP *:talk
+> VirtualBo 18978 fmoenne- 1023u  IPv4 0x60ea5089c6dce233      0t0  TCP *:aci (LISTEN)
+> VirtualBo 18978 fmoenne- 1024u  IPv4 0x60ea5089c6de78b3      0t0  UDP *:ntalk
+> VirtualBo 18978 fmoenne- 1025u  IPv4 0x60ea5089c6e1017b      0t0  UDP *:utime
+> VirtualBo 18978 fmoenne- 1026u  IPv4 0x60ea5089c6e10433      0t0  UDP *:xns-time
+> VirtualBo 18978 fmoenne- 1027u  IPv4 0x60ea5089c6e106eb      0t0  UDP *:domain
+> VirtualBo 18978 fmoenne- 1028u  IPv4 0x60ea5089c6e0fec3      0t0  UDP *:xns-ch
+> VirtualBo 18978 fmoenne- 1029u  IPv4 0x60ea5089c6e0fc0b      0t0  UDP *:isi-gl
+> VirtualBo 18978 fmoenne- 1030u  IPv4 0x60ea5089c6e109a3      0t0  UDP *:xns-auth
+> VirtualBo 18978 fmoenne- 1031u  IPv4 0x60ea5089c6e0f953      0t0  UDP *:57
+> VirtualBo 18978 fmoenne- 1032u  IPv4 0x60ea5089c6e10c5b      0t0  UDP *:xns-mail
+> VirtualBo 18978 fmoenne- 1033u  IPv4 0x60ea5089c6e10f13      0t0  UDP *:59
+> VirtualBo 18978 fmoenne- 1034u  IPv4 0x60ea5089c6dcd8b3      0t0  TCP *:mumps (LISTEN)
+> VirtualBo 18978 fmoenne- 1035u  IPv4 0x60ea5089c6e111cb      0t0  UDP *:60
+> VirtualBo 18978 fmoenne- 1036u  IPv4 0x60ea5089c6e11483      0t0  UDP *:ni-mail
+> VirtualBo 18978 fmoenne- 1037u  IPv4 0x60ea5089c6e0f69b      0t0  UDP *:acas
+> VirtualBo 18978 fmoenne- 1038u  IPv4 0x60ea5089c6e0f3e3      0t0  UDP *:whois++
+> VirtualBo 18978 fmoenne- 1039u  IPv4 0x60ea5089c6e1173b      0t0  UDP *:covia
+> VirtualBo 18978 fmoenne- 1040u  IPv4 0x60ea5089c6e119f3      0t0  UDP *:tacacs-ds
+> VirtualBo 18978 fmoenne- 1041u  IPv4 0x60ea5089c6e0f12b      0t0  UDP *:sql*net
+> VirtualBo 18978 fmoenne- 1042u  IPv4 0x60ea5089c6e11cab      0t0  UDP *:bootps
+> VirtualBo 18978 fmoenne- 1043u  IPv4 0x60ea5089c6e11f63      0t0  UDP *:bootpc
+> VirtualBo 18978 fmoenne- 1044u  IPv4 0x60ea5089c6e1221b      0t0  UDP *:tftp
+> VirtualBo 18978 fmoenne- 1045u  IPv4 0x60ea5089c6dccf33      0t0  TCP *:qft (LISTEN)
+> VirtualBo 18978 fmoenne- 1046u  IPv4 0x60ea5089c6e124d3      0t0  UDP *:gopher
+> VirtualBo 18978 fmoenne- 1047u  IPv4 0x60ea5089c6e0ee73      0t0  UDP *:netrjs-1
+> VirtualBo 18978 fmoenne- 1048u  IPv4 0x60ea5089c6e1278b      0t0  UDP *:netrjs-2
+> VirtualBo 18978 fmoenne- 1049u  IPv4 0x60ea5089c6e12a43      0t0  UDP *:netrjs-3
+> VirtualBo 18978 fmoenne- 1050u  IPv4 0x60ea5089c6e12cfb      0t0  UDP *:netrjs-4
+> VirtualBo 18978 fmoenne- 1051u  IPv4 0x60ea5089c6e0ebbb      0t0  UDP *:75
+> VirtualBo 18978 fmoenne- 1052u  IPv4 0x60ea5089c6e0e903      0t0  UDP *:deos
+> VirtualBo 18978 fmoenne- 1053u  IPv4 0x60ea5089c6e0e64b      0t0  UDP *:77
+> VirtualBo 18978 fmoenne- 1054u  IPv4 0x60ea5089c6e0e393      0t0  UDP *:vettcp
+> VirtualBo 18978 fmoenne- 1055u  IPv4 0x60ea5089c6e12fb3      0t0  UDP *:finger
