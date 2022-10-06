@@ -36,7 +36,34 @@
 
 - php 5.3.10
 - my little forum 2.3.4
-- pages open : /forum  /forum/themes/default/ /forum/themes/default/images/
+- pages open : /forum
+                /images
+                /themes/default/
+                /themes/default/images/
+                /includes
+                /js
+                /lang
+                /templates_c
+
+               /webmail/src/login.php -- SquirrelMail version 1.4.22
+                /help                 (Status: 403) [Size: 295]
+                /include              (Status: 403) [Size: 298]
+                /class                (Status: 403) [Size: 296]
+                /functions            (Status: 403) [Size: 300]
+                /po                   (Status: 403) [Size: 293]
+                /locale               (Status: 403) [Size: 297]
+                /src
+                  /mailto.php           (Status: 200) [Size: 2953]
+                  /compose.php          (Status: 200) [Size: 1836]
+
+
+               /phpmyadmin
+                /themes               (Status: 403) [Size: 301]
+                /js                   (Status: 403) [Size: 297]
+                /libraries            (Status: 403) [Size: 303]
+                /setup                (Status: 401) [Size: 482]
+                /locale               (Status: 403) [Size: 301]
+                /pmd                  (Status: 403) [Size: 298]
 
 
 #+CAPTION: This is the caption for the next figure link (or table)

@@ -1,0 +1,6 @@
+/themes               (Status: 403) [Size: 301]
+/js                   (Status: 403) [Size: 297]
+/libraries            (Status: 403) [Size: 303]
+/setup                (Status: 401) [Size: 482]
+/locale               (Status: 403) [Size: 301]
+/pmd                  (Status: 403) [Size: 298]

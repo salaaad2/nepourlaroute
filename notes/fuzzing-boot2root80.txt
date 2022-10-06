@@ -1,0 +1,5 @@
+/index.html           (Status: 200) [Size: 1025]
+/forum                (Status: 403) [Size: 287]
+/fonts                (Status: 301) [Size: 316] [--> http://192.168.56.101/fonts/]
+/server-status        (Status: 403) [Size: 295]
+/logitech-quickcam_w0qqcatrefzc5qqfbdz1qqfclz3qqfposz95112qqfromzr14qqfrppz50qqfsclz1qqfsooz1qqfsopz1qqfssz0qqfstypez1qqftrtz1qqftrvz1qqftsz2qqnojsprzyqqpfidz0qqsaatcz1qqsacatzq2d1qqsacqyopzgeqqsacurz0qqsadisz200qqsaslopz1qqsofocuszbsqqsorefinesearchz1.html (Status: 403) [Size: 538]

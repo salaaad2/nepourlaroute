@@ -1,0 +1,4 @@
+/forum                (Status: 200) [Size: 4935]
+/webmail              (Status: 200) [Size: 2896]
+/phpmyadmin           (Status: 200) [Size: 7540]
+/server-status        (Status: 403) [Size: 296]
